@@ -14,6 +14,9 @@ le site https://quadrige-core.ifremer.fr/api/graphiql.
 Paragraphe suivant indique l'historique pour recuperer le fichier .json
 Aller directement au suivant pour son utilisation. 
 
+--> Le script R est present dans le dossier scripts.
+--> Le fichier .json est present dans le dossier data.
+
 ---------------RECUPERER LA REQUETE API QUADRIGE = FICHIER .JSON----------------
 Pour recuperer ce fichier .json il faut se rendre sur le site precedent, et 
 le code suivant a ete soumis: 
