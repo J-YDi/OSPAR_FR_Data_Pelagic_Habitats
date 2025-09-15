@@ -1,4 +1,4 @@
-#  R script and data for the OSPAR Pelagic Habitats data call 2025
+#  R scripts and data for the OSPAR Pelagic Habitats data call 2025
 
 #### Github repository organization
 
