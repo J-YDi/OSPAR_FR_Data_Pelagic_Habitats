@@ -7,7 +7,10 @@
 + Extraction_REPHY_API_quadrige.R : Script used to extract the REPHY from Quadrige. 
 
 ##### data folder : 
-+ contains all the original raw dataset needed.
++ contains all the original raw datasets needed.
+
+#### output folder :
++ contains the processed datasets, as submitted to OSPAR
 
 #### Main folder :
 + EquivalenceChamp_SEANOE-API_20250617.xlsx Excel files showing the correspondences between the Quadrige website and the Quadrige API.
