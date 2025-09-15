@@ -13,6 +13,7 @@
 + contains the processed datasets, as submitted to OSPAR
 
 #### Main folder :
++ Remontee_OSPAR.Rproj R project file to obtain the relative path.
 + EquivalenceChamp_SEANOE-API_20250617.xlsx Excel files showing the correspondences between the Quadrige website and the Quadrige API.
 + README_Extraction_REPHY_API_quadrige.txt Readme with instructions and explanations for using the Extraction_REPHY_API_quadrige.R script.
 + Licence.
