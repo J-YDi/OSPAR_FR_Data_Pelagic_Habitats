@@ -517,7 +517,7 @@ PHYTOBS <- PHYTOBS %>%
 
 
 Taxonomy_correspondance_PHYTOBS <- read_delim(
-  "data/Additional_data/Taxonomy_correspondance_PHYTOBS_Dias_modif.csv",
+  "data/Taxonomy_correspondance_PHYTOBS_Dias_modif.csv",
   delim = ";",
   escape_double = FALSE,
   col_types = cols(aphiaID = col_double()),
