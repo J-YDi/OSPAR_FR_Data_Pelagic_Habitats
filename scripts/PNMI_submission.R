@@ -219,6 +219,11 @@ DOME$SFLAG <- NA
 # Keep only the DOME format columns
 DOME_PP_PNMI <- select(DOME,SHIPC:SFLAG)
 
+# Make the sum of the abundance of aphiaID, because before it was different taxa it needs to be merge to avoid missleading thinking about the data
+DOME_PP_PNMI <- DOME_PP_PNMI %>%
+  group_by(across(-VALUE)) %>%  
+  summarise(VALUE = sum(VALUE, na.rm = TRUE), .groups = "drop")
+
 # Save it
 if(nrow(filter(DOME_PP_PNMI, is.na(SPECI))) != 0){
   message("There is a taxa without aphiaID, SEANOE_PNMI_phyto_aphiaID.csv must be updated")
@@ -266,7 +271,7 @@ DOME$SHIPC <- "ZZ99" # Unknown
 DOME$CRUIS <- ZOO$year
 
 # Station identification /Sampling event ID
-DOME$STNNO <- paste0(ZOO$station,"_",format(as.Date(ZOO$date),"%Y%m%d"),"_",ZOO$PROFONDEUR)
+DOME$STNNO <- paste0(ZOO$station,"_",format(as.Date(ZOO$date),"%Y%m%d"),"_","SURFACE")
 
 # Latitude 
 DOME$LATIT <- ZOO$lat
@@ -290,7 +295,7 @@ DOME$STIME <- NA
 DOME$WADEP <- NA
 
 # Sample number / Sample identification 
-DOME$SMPNO <- paste0(ZOO$station,"_",ZOO$date,"_",ZOO$PROFONDEUR)
+DOME$SMPNO <- paste0(ZOO$station,"_",ZOO$date,"_","SURFACE")
 
 # Factors potentially influencing guideline compliance and interpretation of data
 DOME$FINFL <- NA
@@ -393,6 +398,11 @@ DOME$SFLAG <- NA
 
 # Keep only the DOME format columns
 DOME_ZP_PNMI <- select(DOME,SHIPC:SFLAG)
+
+# Make the sum of the abundance of aphiaID, because before it was different taxa it needs to be merge to avoid missleading thinking about the data
+DOME_ZP_PNMI <- DOME_ZP_PNMI %>%
+  group_by(across(-VALUE)) %>%  
+  summarise(VALUE = sum(VALUE, na.rm = TRUE), .groups = "drop")
 
 # Save it
 if(nrow(filter(DOME_ZP_PNMI, is.na(SPECI))) != 0){

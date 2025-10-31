@@ -531,6 +531,7 @@ PHYTOBS <- left_join(PHYTOBS,Taxonomy_correspondance_PHYTOBS)
 # Remove taxa without aphiaID, because dead cells or not phytoplankton
 PHYTOBS <-  filter(PHYTOBS,aphiaID != 0)
 
+
 #_____________________PHYTOPLANKTON DATA TO DOME FORMAT_________________________####
 
 DOME <- PHYTOBS
@@ -664,6 +665,12 @@ DOME$SFLAG <- NA
 
 # Keep only the DOME format columns
 DOME_PP_PHYTOBS <- select(DOME,SHIPC:SFLAG)
+
+# Make the sum of the abundance of aphiaID, because before it was different taxa it needs to be merge to avoid missleading thinking about the data
+DOME_PP_PHYTOBS <- DOME_PP_PHYTOBS %>%
+  group_by(across(-VALUE)) %>%  
+  summarise(VALUE = sum(VALUE, na.rm = TRUE), .groups = "drop")
+
 
 # Save it
 if(nrow(filter(DOME_PP_PHYTOBS, is.na(SPECI))) != 0){
