@@ -5,6 +5,8 @@
 ##### Scripts folder :
 + PNMI_submission.R : Script used to submit data from the Iroise Marine National Park. Original data from : [10.17882/105465](https://doi.org/10.17882/105465)
 + PHYTOBS_submission.R : Script used to submit data from the PHYTOBS network. Original data from the [PELAGOS Database](https://pelagos.sb-roscoff.fr/pelagos/?execution=e2s1), with DOI : [10.17882/85178](https://doi.org/10.17882/85178)
++ SOMLIT_submission.R : Script used to submit data from the SOMLIT network. Original data from the [SOMLIT website](https://www.somlit.fr/demande-de-donnees/), with DOI : [10.17882/100323](https://doi.org/10.17882/100323)
++ ROSCOFF_PICONANO_submission.R : Script used to submit data from the historical time series of cytometry collected at the Roscoff Biological Station by Laetitia Rigaut-Jalabert. The data will receive a DOI soon.
 + Extraction_REPHY_API_quadrige.R : Script used to extract the REPHY from Quadrige. 
 
 ##### data folder : 
