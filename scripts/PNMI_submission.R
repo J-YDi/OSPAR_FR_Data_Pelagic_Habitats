@@ -1,6 +1,6 @@
 #_______________________________________________________________________________
 # Title              : PNMI_submission.r
-# Date               : 15/09/2025
+# Date               : 22/11/2025
 # Object             : Script for submitting data from the Iroise Marine Park 
 #                      for OSPAR Pelagic Habitats
 # Authors            : Jean-Yves Dias
@@ -71,12 +71,15 @@ PHYTO <- left_join(PHYTO,aphiaID)
 
 DOME <- PHYTO
 
+# Reporting laboratory
+DOME$RLABO <- "BAMN" # BOREA
+
 # Ship or platform code 
-DOME$SHIPC <- "ZZ99" # Unknown
+DOME$SHIPC <- "AA31" # Unknown
 
 # Cruise identifier (series of sampling occasions) 
 # "Make it up if you don't go on cruises - one name to be used for a year is fine."
-DOME$CRUIS <- PHYTO$year
+DOME$CRUIS <- format(as.Date(PHYTO$date),"%Y")
 
 # Station identification /Sampling event ID
 DOME$STNNO <- paste0(PHYTO$station,"_",format(as.Date(PHYTO$date),"%Y%m%d"),"_",PHYTO$PROFONDEUR)
@@ -166,13 +169,10 @@ DOME$PARAM <- "ABUNDNR" # Abundance number (number counted)
 DOME$VALUE <- PHYTO$VALEUR
 
 # Measurement unit
-DOME$MUNIT <- "cells/l"
+DOME$MUNIT <- "nrcells/l"
 
 # Qualifier flag (non mandatory)
 DOME$QFLAG <- NA
-
-# Reporting laboratory
-DOME$RLABO <- "BAMN" # BOREA
 
 # Analytical laboratory
 DOME$ALABO <- NA
@@ -195,11 +195,8 @@ DOME$MPROG <- "CEMP~NATL" # OSPAR and National reporting
 # Purpose of Monitoring
 DOME$PURPM <- "T~S" # Temporal trend monitoring and Spatial (geographical) distribution monitoring
 
-# Contracting Party
-DOME$CNTRY <- "FR"
-
 # Monitoring Year
-DOME$MYEAR <- PHYTO$year
+DOME$MYEAR <- format(as.Date(PHYTO$date),"%Y")
 
 # Data Type
 DOME$DTYPE <- "PP"
@@ -217,18 +214,21 @@ DOME$SIZRF <- NA
 DOME$SFLAG <- NA
 
 # Keep only the DOME format columns
-DOME_PP_PNMI <- select(DOME,SHIPC:SFLAG)
+DOME_PP_PNMI <- select(DOME,RLABO:SFLAG)
 
 # Make the sum of the abundance of aphiaID, because before it was different taxa it needs to be merge to avoid missleading thinking about the data
 DOME_PP_PNMI <- DOME_PP_PNMI %>%
   group_by(across(-VALUE)) %>%  
   summarise(VALUE = sum(VALUE, na.rm = TRUE), .groups = "drop")
 
+# Make sure to submit non-zero values
+DOME_PP_PNMI <- filter(DOME_PP_PNMI,VALUE >0)
+
 # Save it
 if(nrow(filter(DOME_PP_PNMI, is.na(SPECI))) != 0){
   message("There is a taxa without aphiaID, SEANOE_PNMI_phyto_aphiaID.csv must be updated")
 } else {
-  write.csv(DOME_PP_PNMI,file = "output/DOME_PP_PNMI_Ready_version.csv",row.names = F,fileEncoding = "UTF-8")
+  write.csv(DOME_PP_PNMI,file = "output/DOME_PP_PNMI_Ready_version.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 }
 
 
@@ -263,12 +263,15 @@ ZOO <- filter(ZOO,aphiaID != "SUPPR")
 #_______________________ZOOPLANKTON DATA TO DOME FORMAT_________________________####
 DOME <- ZOO
 
+# Reporting laboratory
+DOME$RLABO <- "BAMN" # BOREA
+
 # Ship or platform code 
-DOME$SHIPC <- "ZZ99" # Unknown
+DOME$SHIPC <- "AA31" # Unknown
 
 # Cruise identifier (series of sampling occasions) 
 # "Make it up if you don't go on cruises - one name to be used for a year is fine."
-DOME$CRUIS <- ZOO$year
+DOME$CRUIS <- format(as.Date(ZOO$date),"%Y")
 
 # Station identification /Sampling event ID
 DOME$STNNO <- paste0(ZOO$station,"_",format(as.Date(ZOO$date),"%Y%m%d"),"_","SURFACE")
@@ -351,14 +354,11 @@ DOME$MUNIT <- "nr/m3"
 # Qualifier flag (not mandatory)
 DOME$QFLAG <- NA
 
-# Reporting laboratory
-DOME$RLABO <- "BAMN" # BOREA
-
 # Analytical laboratory
 DOME$ALABO <- NA
 
 # Method of analysis
-DOME$METOA <- NA
+DOME$METOA <- "IMA-ZS"
 
 # Method of fixation/preservation
 DOME$METFP <- NA
@@ -375,11 +375,8 @@ DOME$MPROG <- "CEMP~NATL" # OSPAR and National reporting
 # Purpose of Monitoring
 DOME$PURPM <- "T~S" # Temporal trend monitoring and Spatial (geographical) distribution monitoring
 
-# Contracting Party
-DOME$CNTRY <- "FR"
-
 # Monitoring Year
-DOME$MYEAR <- ZOO$year
+DOME$MYEAR <- format(as.Date(ZOO$date),"%Y")
 
 # Data Type
 DOME$DTYPE <- "ZP" # Zooplankton
@@ -397,16 +394,19 @@ DOME$SIZRF <- NA
 DOME$SFLAG <- NA
 
 # Keep only the DOME format columns
-DOME_ZP_PNMI <- select(DOME,SHIPC:SFLAG)
+DOME_ZP_PNMI <- select(DOME,RLABO:SFLAG)
 
 # Make the sum of the abundance of aphiaID, because before it was different taxa it needs to be merge to avoid missleading thinking about the data
 DOME_ZP_PNMI <- DOME_ZP_PNMI %>%
   group_by(across(-VALUE)) %>%  
   summarise(VALUE = sum(VALUE, na.rm = TRUE), .groups = "drop")
 
+# Make sure to submit non-zero values
+DOME_ZP_PNMI <- filter(DOME_ZP_PNMI,VALUE >0)
+
 # Save it
 if(nrow(filter(DOME_ZP_PNMI, is.na(SPECI))) != 0){
   message("There is a taxa without aphiaID, Taxonomy_correspondance_ZOO_PNMI_JY_modif.csv must be updated")
 } else {
-write.csv(DOME_ZP_PNMI,file = "output/DOME_ZP_PNMI_Ready_version.csv",row.names = F,fileEncoding = "UTF-8")
+write.csv(DOME_ZP_PNMI,file = "output/DOME_ZP_PNMI_Ready_version.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 }

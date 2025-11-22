@@ -1,6 +1,6 @@
 #_______________________________________________________________________________
 # Nom               : ROSCOFF_PICONANO_Historic_submission.r
-# Date de modif     : 31/10/2025
+# Date de modif     : 20/11/2025
 # Objet             : Mise en forme des donnees historiques de PICONANO des 
 #                      stations de Roscoff
 # Auteurs           : J-Y. Dias
@@ -156,8 +156,11 @@ ROSCOFF_DOME <- ROSCOFF_DOME |>
 
 DOME <- ROSCOFF_DOME
 
+# Reporting laboratory
+DOME$RLABO <- "BAMN" # BOREA
+
 # Ship or platform code 
-DOME$SHIPC <- "ZZ99" # Unknown
+DOME$SHIPC <- "AA31" # Unspecified research vessel
 
 # Cruise identifier (series of sampling occasions) 
 # "Make it up if you don't go on cruises - one name to be used for a year is fine."
@@ -221,13 +224,10 @@ DOME$PARAM <- "ABUNDNR" # Abundance number (number counted)
 DOME$VALUE <- ROSCOFF_DOME$VALEUR
 
 # Measurement unit
-DOME$MUNIT <- "cells/l"
+DOME$MUNIT <- "nrcells/l"
 
 # Qualifier flag (non mandatory)
 DOME$QFLAG <- NA
-
-# Reporting laboratory
-DOME$RLABO <- "BAMN" # BOREA
 
 # Analytical laboratory
 DOME$ALABO <- NA
@@ -239,7 +239,7 @@ DOME$METOA <- NA
 DOME$METFP <- NA
 
 # Sampling laboratory
-DOME$SLABO <- NA
+DOME$SLABO <- "521"
 
 # Sampler type
 DOME$SMTYP <- NA
@@ -251,7 +251,7 @@ DOME$MPROG <- "CEMP~NATL" # OSPAR and National reporting
 DOME$PURPM <- "T~S" # Temporal trend monitoring and Spatial (geographical) distribution monitoring
 
 # Contracting Party
-DOME$CNTRY <- "FR"
+# DOME$CNTRY <- "FR"
 
 # Monitoring Year
 DOME$MYEAR <- format(as.Date(ROSCOFF_DOME$DATE),"%Y")
@@ -272,7 +272,7 @@ DOME$SIZRF <- NA
 DOME$SFLAG <- NA
 
 # Keep only the DOME format columns
-DOME_PP_ROSCOFF <- select(DOME,SHIPC:SFLAG)
+DOME_PP_ROSCOFF <- select(DOME,RLABO:SFLAG)
 
 # Make the max of the abundance of aphiaID, as recommanded by Maud Lemoine from the REPHY
 DOME_PP_ROSCOFF <- DOME_PP_ROSCOFF %>%
@@ -283,6 +283,6 @@ DOME_PP_ROSCOFF <- DOME_PP_ROSCOFF %>%
 if(nrow(filter(DOME_PP_ROSCOFF, is.na(SPECI))) != 0){
   message("There is a taxa without aphiaID, SEANOE_PNMI_ROSCOFF_DOME_aphiaID.csv must be updated")
 } else {
-  write.csv(DOME_PP_ROSCOFF,file = "output/DOME_PP_ROSCOFF_PICONANO_Ready_version.csv",row.names = F,fileEncoding = "UTF-8")
+  write.csv(DOME_PP_ROSCOFF,file = "output/DOME_PP_ROSCOFF_PICONANO_Ready_version_2.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 }
 
