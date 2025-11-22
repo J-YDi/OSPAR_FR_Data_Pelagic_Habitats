@@ -13,7 +13,10 @@
 + contains all the original raw datasets needed.
 
 #### output folder :
-+ contains the processed datasets, as submitted to OSPAR
++ contains the processed datasets
+
+#### submission solder :
++ For DOME format : contains the dataset after the output dataset "Simplified format" were converted to DOME format though https://vocab.ices.dk/DataConversion/home/index and screening with https://dome.ices.dk/datsu/DATSU.aspx
 
 #### Main folder :
 + Remontee_OSPAR.Rproj R project file to obtain the relative path.
