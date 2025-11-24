@@ -1,6 +1,6 @@
 #_______________________________________________________________________________
 # Nom               : SOMLIT_submission.r
-# Date de modif     : 31/10/2025
+# Date de modif     : 23/11/2025
 # Objet             : Mise en forme des donnees SOMLIT
 # Auteurs           : J-Y. Dias
 # Version R         : 4.5.0
@@ -85,15 +85,23 @@ PICONANO <- PICONANO |>
 
 PICONANO <- PICONANO[,-QF_PICONANO] 
 
+# Correct depth for Arcachon stations as there are all at the surface so there are not sampling at more than 1m for Bouee 13, Comprian and Eyrac stations
+HYDRO$PROFONDEUR <- ifelse(HYDRO$SITE %in% c("Bouee 13","Comprian","Eyrac") & HYDRO$NIVEAU_PROFONDEUR == "S" & HYDRO$PROFONDEUR > 1,  1,  HYDRO$PROFONDEUR)
+
 #____________________Make HYDRO data OCEAN compatible___________________________
+
+HYDRO <- filter(HYDRO, SITE %in% c("Antioche" ,"Astan","Bizeux","Bouee 13","Comprian","Cézembre" ,"Estacade","Eyrac","Le Buron" , "Luc-sur-Mer",
+                                                    "Point C", "Point L","Portzic","Smile", "pk 30", "pk 52","pk 86"))
+
+
 OCEAN <- HYDRO
 OCEAN$Cruise <- as.numeric(format(HYDRO$DATETIME, "%Y"))
-OCEAN$Station <- HYDRO$SITE
+OCEAN$Station <- paste0(HYDRO$SITE,"_",HYDRO$DATETIME)
 OCEAN$Type <- "*"
 OCEAN$`yyyy-mm-ddThh:mm:ss.sss` <- format(HYDRO$DATETIME, "%Y-%m-%dT%H:%MZ")
 OCEAN$`Longitude [degrees_east]` <- HYDRO$LON
 OCEAN$`Latitude [degrees_north]` <- HYDRO$LAT
-OCEAN$`Bot.Depth [m]` <- NA
+OCEAN$`Bot. Depth [m]` <- NA
 OCEAN$`Platform Code` <- "ZZ99"
 OCEAN$`Device Category Code` <- "30" # Bottle and CTD
 OCEAN$`Distributor Code` <- "548"
@@ -101,48 +109,45 @@ OCEAN$`Custodian Code` <- "548"
 OCEAN$`Originator Code` <- "548"
 OCEAN$`Project Code` <- NA
 OCEAN$`Depth [m]` <- HYDRO$PROFONDEUR
-OCEAN$`Chlorophyll a SOMLIT [ug/l]` <- ifelse((OCEAN$Station %in% c("Point L", "Point C")) & OCEAN$Cruise < 2009,  NA,  HYDRO$CHLA) # Protocole SOMLIT
-OCEAN$`QV:ODV:Chlorophyll a SOMLIT [ug/l]` <- with(OCEAN,
+OCEAN$`Chlorophyll a SOMLIT [ug/l] equals to [mg/m3]` <- ifelse((OCEAN$Station %in% c("Point L", "Point C")) & OCEAN$Cruise < 2009,  NA,  HYDRO$CHLA) # Protocole SOMLIT
+OCEAN$`QV:ODV:Chlorophyll a SOMLIT [ug/l] equals to [mg/m3]` <- with(OCEAN,
                                                    ifelse(
                                                      Station %in% c("Point L", "Point C") & Cruise < 2009, 
-                                                     NA_real_,                       # cas exclu
+                                                     1,                       # cas exclu
                                                      ifelse(
                                                        is.na(HYDRO$CHLA),            # donnée absente à l’origine
-                                                       NA_real_,
+                                                       1,
                                                        0                             # sinon 0
                                                      )
                                                    )
 )
-OCEAN$`Chlorophyll a HPLC [ug/l]` <- ifelse((OCEAN$Station %in% c("Point L", "Point C")) & OCEAN$Cruise < 2009, HYDRO$CHLA, NA) # HPLC
-OCEAN$`QV:ODV:Chlorophyll a HPLC [ug/l]` <- with(OCEAN,
+OCEAN$`Chlorophyll a HPLC [ug/l] equals to [mg/m3]` <- ifelse((OCEAN$Station %in% c("Point L", "Point C")) & OCEAN$Cruise < 2009, HYDRO$CHLA, NA) # HPLC
+OCEAN$`QV:ODV:Chlorophyll a HPLC [ug/l] equals to [mg/m3]` <- with(OCEAN,
                                                  ifelse(
                                                    (Station %in% c("Point L", "Point C")) & Cruise < 2009,
-                                                   ifelse(is.na(HYDRO$CHLA), NA_real_, 0),  # si CHLA dispo → 0, sinon NA
-                                                   NA_real_                                # sinon (hors règle) → NA
+                                                   ifelse(is.na(HYDRO$CHLA), 1, 0),  # si CHLA dispo → 0, sinon NA
+                                                   1                                # sinon (hors règle) → NA
                                                  )
 )
 
 
-SOMLIT_OCEAN <- select(OCEAN,Cruise:`QV:ODV:Chlorophyll a HPLC [ug/l]`)
-
+SOMLIT_OCEAN <- select(OCEAN,Cruise:`QV:ODV:Chlorophyll a HPLC [ug/l] equals to [mg/m3]`)
 
 pre_header <- c(
   "//ICES_parameter_mapping",
   "//<subject>ICES:LOCAL:Depth [m]</subject><object>ICES:P01::DPSAZZ01</object><units>ICES:P06::ULAA</units>",
-  "//<subject>ICES:LOCAL:Chlorophyll a SOMLIT</subject><object>ICES:P01::CPHLFLP1</object><units>ICES:P06::UGPL</units>",
-  "//<subject>ICES:LOCAL:Chlorophyll a HPLC</subject><object>ICES:P01::CPHLHPP1</object><units>ICES:P06::UGPL</units>",
+  "//<subject>ICES:LOCAL:Chlorophyll a SOMLIT [ug/l] equals to [mg/m3]</subject><object>ICES:P01::CPHLFLP1</object><units>ICES:P06::UMMC</units>",
+  "//<subject>ICES:LOCAL:Chlorophyll a HPLC [ug/l] equals to [mg/m3]</subject><object>ICES:P01::CPHLHPP1</object><units>ICES:P06::UMMC</units>",
   "//",
   paste(colnames(SOMLIT_OCEAN), collapse = ",")
 )
 
 # Final dataset
-write_lines(pre_header, "OCEAN_PH2_SOMLIT_TESTING.csv") # metadata lines
-write_excel_csv(SOMLIT_OCEAN,file = "output/OCEAN_PH2_SOMLIT_Ready_version.csv", append = TRUE) # complete dataset
+write_lines(pre_header, "output/OCEAN_PH2_SOMLIT_Ready_version_final.csv",na = "") # metadata lines
+write_excel_csv(SOMLIT_OCEAN,file = "output/OCEAN_PH2_SOMLIT_Ready_version_final.csv", append = TRUE,na = "") # complete dataset
 
 #_____________________PHYTOPLANKTON DATA TO DOME FORMAT_________________________####
 # Keep only measurements that corresponds to a taxa and are under of scope of COBAM
-
-
 
 SOMLIT_DOME <- PICONANO |>
   pivot_longer(cols = TBACC:NANOEFLR,names_to = "TAXA",values_to = "VALEUR") |>
