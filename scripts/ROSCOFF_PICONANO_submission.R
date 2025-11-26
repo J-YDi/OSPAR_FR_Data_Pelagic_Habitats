@@ -1,6 +1,6 @@
 #_______________________________________________________________________________
 # Nom               : ROSCOFF_PICONANO_Historic_submission.r
-# Date de modif     : 20/11/2025
+# Date de modif     : 26/11/2025
 # Objet             : Mise en forme des donnees historiques de PICONANO des 
 #                      stations de Roscoff
 # Auteurs           : J-Y. Dias
@@ -239,7 +239,7 @@ DOME$METOA <- NA
 DOME$METFP <- NA
 
 # Sampling laboratory
-DOME$SLABO <- "521"
+DOME$SLABO <- NA
 
 # Sampler type
 DOME$SMTYP <- NA
