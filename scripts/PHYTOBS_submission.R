@@ -1,12 +1,14 @@
 #_______________________________________________________________________________
 # Title              : PHYTOBS_submission.r
-# Date               : 15/09/2025
+# Date               : 26/11/2025
 # Object             : Script for submitting data from the PHYTOBS network 
 # Authors            : Jean-Yves Dias
 # R version          : 4.5.0
 # Data DOI           : 10.17882/85178
 # Github link        : 
 #_______________________________________________________________________________
+
+# Beosin de changer la correspondance aphiaID pour s'aligner avec REPHY
 
 #_______________________________ Packages_______________________________________####
 
@@ -536,8 +538,11 @@ PHYTOBS <-  filter(PHYTOBS,aphiaID != 0)
 
 DOME <- PHYTOBS
 
+# Reporting laboratory
+DOME$RLABO <- "BAMN" # BOREA
+
 # Ship or platform code 
-DOME$SHIPC <- "ZZ99" # Unknown
+DOME$SHIPC <- "AA31" # Unknown
 
 # Cruise identifier (series of sampling occasions) 
 # "Make it up if you don't go on cruises - one name to be used for a year is fine."
@@ -550,7 +555,7 @@ DOME$STNNO <- PHYTOBS$ID_ECHANTILLON
 DOME$LATIT <- ifelse(PHYTOBS$SITE == "Bouée 13",44.633,
                      ifelse(PHYTOBS$SITE == "Antioche",46.084,
                             ifelse(PHYTOBS$SITE == "Astan",48.772,
-                                   ifelse(PHYTOBS$SITE == "Portzic",48.552,
+                                   ifelse(PHYTOBS$SITE == "Portzic",48.3589,
                                           ifelse(PHYTOBS$SITE == "Point C",50.679,
                                                  ifelse(PHYTOBS$SITE == "Smile",49.337,
                                                  NA))))))
@@ -589,10 +594,10 @@ DOME$FINFL <- NA
 DOME$SMVOL <- 0.250
 
 # Minimum depth - surface = 0 metres
-DOME$MNDEP <- PHYTOBS$PROFONDEUR
+DOME$MNDEP <- min(PHYTOBS$PROFONDEUR,PHYTOBS$PROFONDEUR_MAX)
   
 # Maximum depth in metres
-DOME$MXDEP <- PHYTOBS$PROFONDEUR_MAX
+DOME$MXDEP <- max(PHYTOBS$PROFONDEUR,PHYTOBS$PROFONDEUR_MAX)
   
 # Species from WoRMS
 # manually indicate taxa without aphia ID if needed
@@ -613,13 +618,10 @@ DOME$PARAM <- "ABUNDNR" # Abundance number (number counted)
 DOME$VALUE <- PHYTOBS$VALEUR
 
 # Measurement unit
-DOME$MUNIT <- "cells/l"
+DOME$MUNIT <- "nrcells/l"
 
 # Qualifier flag (non mandatory)
 DOME$QFLAG <- NA
-
-# Reporting laboratory
-DOME$RLABO <- "BAMN" # BOREA
 
 # Analytical laboratory
 DOME$ALABO <- NA
@@ -642,9 +644,6 @@ DOME$MPROG <- "CEMP~NATL" # OSPAR and National reporting
 # Purpose of Monitoring
 DOME$PURPM <- "T~S" # Temporal trend monitoring and Spatial (geographical) distribution monitoring
 
-# Contracting Party
-DOME$CNTRY <- "FR"
-
 # Monitoring Year
 DOME$MYEAR <- format(as.Date(PHYTOBS$DATE),"%Y")
 
@@ -664,7 +663,7 @@ DOME$SIZRF <- NA
 DOME$SFLAG <- NA
 
 # Keep only the DOME format columns
-DOME_PP_PHYTOBS <- select(DOME,SHIPC:SFLAG)
+DOME_PP_PHYTOBS <- select(DOME,RLABO:SFLAG)
 
 # Make the sum of the abundance of aphiaID, because before it was different taxa it needs to be merge to avoid missleading thinking about the data
 DOME_PP_PHYTOBS <- DOME_PP_PHYTOBS %>%
@@ -676,7 +675,7 @@ DOME_PP_PHYTOBS <- DOME_PP_PHYTOBS %>%
 if(nrow(filter(DOME_PP_PHYTOBS, is.na(SPECI))) != 0){
   message("There is a taxa without aphiaID, Taxonomy_correspondance_PHYTOBS_Dias_modif.csv must be updated")
 } else {
-  write.csv(DOME_PP_PHYTOBS,file = "output/DOME_PP_PHYTOBS_Ready_version.csv",row.names = F,fileEncoding = "UTF-8")
+  write.csv(DOME_PP_PHYTOBS,file = "output/DOME_PP_PHYTOBS_Ready_version_2.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 }
 
 
