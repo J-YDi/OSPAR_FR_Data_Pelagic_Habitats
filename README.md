@@ -15,7 +15,7 @@
 #### output folder :
 + contains the processed datasets
 
-#### submission solder :
+#### submission folder :
 + For DOME format : contains the dataset after the output dataset "Simplified format" were converted to DOME format though https://vocab.ices.dk/DataConversion/home/index and screening with https://dome.ices.dk/datsu/DATSU.aspx
 + For OCEAN format : contains the CSV file as in output folder
 
