@@ -19,7 +19,7 @@
 
 #### submission folder :
 + For DOME format : contains the dataset after the output dataset "Simplified format" were converted to DOME format though https://vocab.ices.dk/DataConversion/home/index and screening with https://dome.ices.dk/datsu/DATSU.aspx
-+ For OCEAN format : contains the CSV file as in output folder
++ For OCEAN format : contains the CSV file as in output folder, REPHY chla data was not submitted by us.
 
 #### Main folder :
 + Remontee_OSPAR.Rproj R project file to obtain the relative path.
