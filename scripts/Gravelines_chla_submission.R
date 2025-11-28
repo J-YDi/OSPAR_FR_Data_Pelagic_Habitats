@@ -215,7 +215,12 @@ IGA_HYDRO <- pivot_wider(IGA_HYDRO,names_from = "BODC",values_from = VALEUR)
 OCEAN <- IGA_HYDRO
 OCEAN$Cruise <- as.numeric(format(IGA_HYDRO$DATETIME, "%Y"))
 OCEAN$Type <- "*"
-OCEAN$`yyyy-mm-ddThh:mm:ss.sss` <- format(IGA_HYDRO$DATETIME, "%Y-%m-%dT%H:%MZ")
+OCEAN$`yyyy-mm-ddThh:mm:ss.sss` <- ifelse(
+  format(IGA_HYDRO$DATETIME, "%H:%M") == "00:00",
+  format(IGA_HYDRO$DATETIME, "%Y-%m-%d"),
+  format(IGA_HYDRO$DATETIME, "%Y-%m-%dT%H:%MZ")
+)
+
 OCEAN$`Longitude [degrees_east]` <- 2.15003
 OCEAN$`Latitude [degrees_north]` <- 51.02219
 OCEAN$`Bot. Depth [m]` <- NA
@@ -244,8 +249,8 @@ IGA_OCEAN <- IGA_OCEAN %>%
 IGA_OCEAN <- IGA_OCEAN |>
   group_by(`yyyy-mm-ddThh:mm:ss.sss`, `Longitude [degrees_east]`, `Latitude [degrees_north]`) |>
   mutate(
-    `Chlorophyll a trichroma CPHLSSP1` = mean(`Chlorophyll a trichroma CPHLSSP1`, na.rm = TRUE),
-    `Chlorophyll a monochroma CPHLSXP1` = mean(`Chlorophyll a monochroma CPHLSXP1`, na.rm = TRUE),
+    `Chlorophyll a trichroma CPHLSSP1` = round(mean(`Chlorophyll a trichroma CPHLSSP1`, na.rm = TRUE),digits = 3),
+    `Chlorophyll a monochroma CPHLSXP1` = round(mean(`Chlorophyll a monochroma CPHLSXP1`, na.rm = TRUE),digits = 3),
     
     `QV:ODV:Chlorophyll a trichroma CPHLSSP1` = min(`QV:ODV:Chlorophyll a trichroma CPHLSSP1`, na.rm = TRUE),
     `QV:ODV:Chlorophyll a monochroma CPHLSXP1` = min(`QV:ODV:Chlorophyll a monochroma CPHLSXP1`, na.rm = TRUE),
