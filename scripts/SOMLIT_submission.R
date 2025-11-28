@@ -1,6 +1,6 @@
 #_______________________________________________________________________________
 # Nom               : SOMLIT_submission.r
-# Date de modif     : 23/11/2025
+# Date de modif     : 28/11/2025
 # Objet             : Mise en forme des donnees SOMLIT
 # Auteurs           : J-Y. Dias
 # Version R         : 4.5.0
@@ -8,8 +8,8 @@
 
 #_______________________________ Packages_______________________________________
 
-# Fonction permettant d'installer les packages si non présents et/ou les charger
-# en l etat ne fonctionne pas pour les packages qui s'installent hors CRAN
+# Function to install packages if not present and/or load them
+# in state does not work for packages that install outside CRAN
 loadpackages <- function(packages){
   for (pkg in packages){
     if (!requireNamespace(pkg,quietly = T)){
@@ -57,7 +57,7 @@ PICONANO$DATETIME <- as.POSIXct(paste(PICONANO$DATE,PICONANO$HEURE),format = "%Y
 
 #________________________________Recoding NA's and Quality flags________________
 
-# On ne garde que les codes qualites 2,6 et 7
+# Keep quality flags 2,6 et 7
 QF_HYDRO <- grep("q",colnames(HYDRO))
 for (i in 1:length(QF_HYDRO)) {
   idx <- which(HYDRO[QF_HYDRO[i]] != 2 &
@@ -163,8 +163,11 @@ SOMLIT_DOME <- SOMLIT_DOME |>
 
 DOME <- SOMLIT_DOME
 
+# Reporting laboratory
+DOME$RLABO <- "BAMN" # BOREA
+
 # Ship or platform code 
-DOME$SHIPC <- "ZZ99" # Unknown
+DOME$SHIPC <- "AA31" # Unknown
 
 # Cruise identifier (series of sampling occasions) 
 # "Make it up if you don't go on cruises - one name to be used for a year is fine."
@@ -228,13 +231,10 @@ DOME$PARAM <- "ABUNDNR" # Abundance number (number counted)
 DOME$VALUE <- SOMLIT_DOME$VALEUR
 
 # Measurement unit
-DOME$MUNIT <- "cells/l"
+DOME$MUNIT <- "nrcells/l"
 
 # Qualifier flag (non mandatory)
 DOME$QFLAG <- NA
-
-# Reporting laboratory
-DOME$RLABO <- "BAMN" # BOREA
 
 # Analytical laboratory
 DOME$ALABO <- NA
