@@ -1,0 +1,226 @@
+TAXON;aphiaID;Kingdom;Phylum;Subphylum;Superclass;Class;Infraclass;Superorder;Order;Family;Genus;Species;Subclass;Suborder;Subfamily;Tribe;Subgenus;Infraphylum;Parvphylum;Gigaclass;Infraorder;Superfamily;Parvorder;Subterclass;Section;Subsection;rank
+Animalia;2;Animalia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Kingdom
+Gastropoda;101;Animalia;Mollusca;NA;NA;Gastropoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Bivalvia;105;Animalia;Mollusca;NA;NA;Bivalvia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Annelida;882;Animalia;Annelida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+Polychaeta;883;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Spionidae;913;Animalia;Annelida;NA;NA;Polychaeta;Canalipalpata;NA;Spionida;Spionidae;NA;NA;Sedentaria;Spioniformia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Magelonidae;914;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;NA;Magelonidae;NA;NA;Polychaeta incertae sedis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Aphroditidae;938;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;Phyllodocida;Aphroditidae;NA;NA;Errantia;Aphroditiformia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Syllidae;948;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;Phyllodocida;Syllidae;NA;NA;Errantia;Nereidiformia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Sabellidae;985;Animalia;Annelida;NA;NA;Polychaeta;Canalipalpata;NA;Sabellida;Sabellidae;NA;NA;Sedentaria;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Ostracoda;1078;Animalia;Arthropoda;Crustacea;Oligostraca;Ostracoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Copepoda;1080;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Cirripedia;1082;Animalia;Arthropoda;Crustacea;Multicrustacea;Thecostraca;NA;NA;NA;NA;NA;NA;Cirripedia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Subclass
+Calanoida;1100;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Cyclopoida;1101;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Harpacticoida;1102;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Monstrilloida;1106;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Monstrilloida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Decapoda;1130;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;NA;NA;NA;Eumalacostraca;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Isopoda;1131;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Isopoda;NA;NA;NA;Eumalacostraca;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Amphipoda;1135;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;NA;NA;NA;Eumalacostraca;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Cumacea;1137;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Cumacea;NA;NA;NA;Eumalacostraca;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Gammaridea;1207;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;NA;NA;NA;Eumalacostraca;Gammaridea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Suborder
+Ctenophora;1248;Animalia;Ctenophora;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+Cnidaria;1267;Animalia;Cnidaria;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+Hydrozoa;1337;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Echinodermata;1806;Animalia;Echinodermata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+Ascidiacea;1839;Animalia;Chordata;Tunicata;NA;Ascidiacea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Chaetognatha;2081;Animalia;Chaetognatha;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+Actinopterygii;10194;Animalia;Chordata;Vertebrata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Gigaclass
+Anthoathecata;13551;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;NA;NA;NA;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Leptothecata;13552;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Leptothecata;NA;NA;NA;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Hydroidolina;19494;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;NA;NA;NA;NA;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Subclass
+Caprellidae;101361;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Caprellidae;NA;NA;Eumalacostraca;Senticaudata;NA;NA;NA;NA;NA;NA;Corophiida;Caprelloidea;Caprellidira;NA;NA;NA;Family
+Corophium;101489;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Corophiidae;Corophium;NA;Eumalacostraca;Senticaudata;Corophiinae;Corophiini;NA;NA;NA;NA;Corophiida;Corophioidea;Corophiidira;NA;NA;NA;Genus
+Atylus;101497;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Atylidae;Atylus;NA;Eumalacostraca;Amphilochidea;Atylinae;NA;NA;NA;NA;NA;Lysianassida;Dexaminoidea;Synopiidira;NA;NA;NA;Genus
+Ischyrocerus;101569;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Ischyroceridae;Ischyrocerus;NA;Eumalacostraca;Senticaudata;Ischyrocerinae;Ischyrocerini;NA;NA;NA;NA;Corophiida;Photoidea;Caprellidira;NA;NA;NA;Genus
+Bathyporeia;101742;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Bathyporeiidae;Bathyporeia;NA;Eumalacostraca;Senticaudata;NA;NA;NA;NA;NA;NA;Gammarida;Gammaroidea;Gammaridira;NA;NA;NA;Genus
+Nototropis falcatus;102139;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Atylidae;Nototropis;Nototropis falcatus;Eumalacostraca;Amphilochidea;Nototropiinae;NA;NA;NA;NA;NA;Lysianassida;Dexaminoidea;Synopiidira;NA;NA;NA;Species
+Ischyrocerus anguipes;102412;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Ischyroceridae;Ischyrocerus;Ischyrocerus anguipes;Eumalacostraca;Senticaudata;Ischyrocerinae;Ischyrocerini;NA;NA;NA;NA;Corophiida;Photoidea;Caprellidira;NA;NA;NA;Species
+Fritillaria borealis;103375;Animalia;Chordata;Tunicata;NA;Appendicularia;NA;NA;Copelata;Fritillariidae;Fritillaria;Fritillaria borealis;NA;NA;Fritillariinae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Fritillaria pellucida;103386;Animalia;Chordata;Tunicata;NA;Appendicularia;NA;NA;Copelata;Fritillariidae;Fritillaria;Fritillaria pellucida;NA;NA;Fritillariinae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Oikopleura (Vexillaria) dioica;103407;Animalia;Chordata;Tunicata;NA;Appendicularia;NA;NA;Copelata;Oikopleuridae;Oikopleura;Oikopleura (Vexillaria) dioica;NA;NA;Oikopleurinae;Labiata;Oikopleura (Vexillaria);NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Clausocalanidae;104082;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Clausocalanidae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Acartia;104108;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Acartiidae;Acartia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Calanus;104152;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Calanidae;Calanus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Centropages;104159;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Centropagidae;Centropages;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Pseudocalanus;104165;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Clausocalanidae;Pseudocalanus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Paracalanus;104196;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Paracalanidae;Paracalanus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Labidocera;104208;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Pontellidae;Labidocera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Stephos;104239;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Stephidae;Stephos;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Temora;104241;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Temoridae;Temora;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Acartia (Acartiura) clausi;104251;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Acartiidae;Acartia;Acartia clausi;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Acartia (Acartiura) discaudata;104253;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Acartiidae;Acartia;Acartia discaudata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Paracartia grani;104264;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Acartiidae;Paracartia;Paracartia grani;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Calanus helgolandicus;104466;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Calanidae;Calanus;Calanus helgolandicus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Centropages hamatus;104496;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Centropagidae;Centropages;Centropages hamatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Centropages typicus;104499;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Centropagidae;Centropages;Centropages typicus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Isias clavipes;104501;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Centropagidae;Isias;Isias clavipes;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Pseudocalanus elongatus;104515;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Clausocalanidae;Pseudocalanus;Pseudocalanus elongatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Paracalanus parvus;104685;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Paracalanidae;Paracalanus;Paracalanus parvus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Parapontella brevicornis;104686;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Parapontellidae;Parapontella;Parapontella brevicornis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Labidocera wollastoni;104736;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Pontellidae;Labidocera;Labidocera wollastoni;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Stephos minor;104869;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Stephidae;Stephos;Stephos minor;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Eurytemora affinis;104872;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Temoridae;Eurytemora;Eurytemora affinis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Temora longicornis;104878;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Temoridae;Temora;Temora longicornis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Parasagitta;105408;Animalia;Chaetognatha;NA;NA;Sagittoidea;NA;NA;Aphragmophora;Sagittidae;Parasagitta;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Sagitta;105410;Animalia;Chaetognatha;NA;NA;Sagittoidea;NA;NA;Aphragmophora;Sagittidae;Sagitta;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Parasagitta elegans;105440;Animalia;Chaetognatha;NA;NA;Sagittoidea;NA;NA;Aphragmophora;Sagittidae;Parasagitta;Parasagitta elegans;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Parasagitta setosa;105443;Animalia;Chaetognatha;NA;NA;Sagittoidea;NA;NA;Aphragmophora;Sagittidae;Parasagitta;Parasagitta setosa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Podonidae;106264;Animalia;Arthropoda;Crustacea;Allotriocarida;Branchiopoda;NA;Diplostraca;Onychopoda;Podonidae;NA;NA;Phyllopoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Evadne;106267;Animalia;Arthropoda;Crustacea;Allotriocarida;Branchiopoda;NA;Diplostraca;Onychopoda;Podonidae;Evadne;NA;Phyllopoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Penilia avirostris;106272;Animalia;Arthropoda;Crustacea;Allotriocarida;Branchiopoda;NA;Diplostraca;Ctenopoda;Sididae;Penilia;Penilia avirostris;Phyllopoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Evadne nordmanni;106273;Animalia;Arthropoda;Crustacea;Allotriocarida;Branchiopoda;NA;Diplostraca;Onychopoda;Podonidae;Evadne;Evadne nordmanni;Phyllopoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Podon intermedius;106276;Animalia;Arthropoda;Crustacea;Allotriocarida;Branchiopoda;NA;Diplostraca;Onychopoda;Podonidae;Podon;Podon intermedius;Phyllopoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Podon leuckartii;106277;Animalia;Arthropoda;Crustacea;Allotriocarida;Branchiopoda;NA;Diplostraca;Onychopoda;Podonidae;Podon;Podon leuckartii;Phyllopoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Hormiphora cucumis;106382;Animalia;Ctenophora;NA;NA;Tentaculata;NA;NA;Cydippida;Cydippidae;Hormiphora;Hormiphora cucumis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Pleurobrachia pileus;106386;Animalia;Ctenophora;NA;NA;Tentaculata;NA;NA;Cydippida;Cydippidae;Pleurobrachia;Pleurobrachia pileus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Oithona;106485;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Oithonidae;Oithona;NA;NA;Oithonida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Cyclopinoides littoralis;106538;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Smirnovipinidae;Cyclopinoides;Cyclopinoides littoralis;NA;Oithonida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Oithona nana;106651;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Oithonidae;Oithona;Oithona nana;NA;Oithonida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Oithona similis;106656;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Oithonidae;Oithona;Oithona similis;NA;Oithonida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Anomura;106671;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;NA;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;NA;NA;NA;NA;NA;Infraorder
+Brachyura;106673;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;NA;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Brachyura;NA;NA;NA;NA;NA;Infraorder
+Caridea;106674;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;NA;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;NA;NA;NA;NA;NA;Infraorder
+Thalassinidea;106677;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;NA;NA;NA;Eumalacostraca;Macrura;NA;NA;NA;NA;NA;NA;Thalassinidea;NA;NA;NA;NA;NA;Infraorder
+Galatheidae;106733;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Galatheidae;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Galatheoidea;NA;NA;NA;NA;Family
+Porcellanidae;106734;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Porcellanidae;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Galatheoidea;NA;NA;NA;NA;Family
+Diogenidae;106736;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Diogenidae;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Paguroidea;NA;NA;NA;NA;Family
+Paguridae;106738;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Paguridae;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Paguroidea;NA;NA;NA;NA;Family
+Hippolytidae;106777;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Hippolytidae;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Alpheoidea;NA;NA;NA;NA;Family
+Crangonidae;106782;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Crangonidae;NA;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Crangonoidea;NA;NA;NA;NA;Family
+Galathea;106834;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Galatheidae;Galathea;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Galatheoidea;NA;NA;NA;NA;Genus
+Eurynome;106901;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Majidae;Eurynome;NA;Eumalacostraca;Pleocyemata;Majinae;NA;NA;NA;NA;NA;Brachyura;Majoidea;NA;NA;Eubrachyura;Heterotremata;Genus
+Liocarcinus;106925;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Polybiidae;Liocarcinus;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Brachyura;Portunoidea;NA;NA;Eubrachyura;Heterotremata;Genus
+Eualus;106986;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Thoridae;Eualus;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Alpheoidea;NA;NA;NA;NA;Genus
+Processa;107054;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Processidae;Processa;NA;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Processoidea;NA;NA;NA;NA;Genus
+Galathea squamifera;107154;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Galatheidae;Galathea;Galathea squamifera;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Galatheoidea;NA;NA;NA;NA;Species
+Galathea strigosa;107155;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Galatheidae;Galathea;Galathea strigosa;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Galatheoidea;NA;NA;NA;NA;Species
+Pisidia longicornis;107188;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Porcellanidae;Pisidia;Pisidia longicornis;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Galatheoidea;NA;NA;NA;NA;Species
+Porcellana platycheles;107190;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Porcellanidae;Porcellana;Porcellana platycheles;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Galatheoidea;NA;NA;NA;NA;Species
+Diogenes pugilator;107199;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Diogenidae;Diogenes;Diogenes pugilator;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Paguroidea;NA;NA;NA;NA;Species
+Anapagurus laevis;107218;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Paguridae;Anapagurus;Anapagurus laevis;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Paguroidea;NA;NA;NA;NA;Species
+Pagurus bernhardus;107232;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Paguridae;Pagurus;Pagurus bernhardus;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Anomura;Paguroidea;NA;NA;NA;NA;Species
+Atelecyclus rotundatus;107273;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Atelecyclidae;Atelecyclus;Atelecyclus rotundatus;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Brachyura;Cancroidea;NA;NA;Eubrachyura;Heterotremata;Species
+Corystes cassivelaunus;107277;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Corystidae;Corystes;Corystes cassivelaunus;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Brachyura;Corystoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Pirimela denticulata;107278;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Pirimelidae;Pirimela;Pirimela denticulata;Eumalacostraca;Pleocyemata;Pirimelinae;NA;NA;NA;NA;NA;Brachyura;Portunoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Thia scutellata;107281;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Thiidae;Thia;Thia scutellata;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Brachyura;Portunoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Macropodia tenuirostris;107346;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Inachidae;Macropodia;Macropodia tenuirostris;Eumalacostraca;Pleocyemata;Inachinae;NA;NA;NA;NA;NA;Brachyura;Majoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Maja brachydactyla;107347;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Majidae;Maja;Maja brachydactyla;Eumalacostraca;Pleocyemata;Majinae;NA;NA;NA;NA;NA;Brachyura;Majoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Carcinus maenas;107381;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Carcinidae;Carcinus;Carcinus maenas;Eumalacostraca;Pleocyemata;Carcininae;NA;NA;NA;NA;NA;Brachyura;Portunoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Necora puber;107398;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Polybiidae;Necora;Necora puber;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Brachyura;Portunoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Portumnus latipes;107400;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Carcinidae;Portumnus;Portumnus latipes;Eumalacostraca;Pleocyemata;Platyonichinae;NA;NA;NA;NA;NA;Brachyura;Portunoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Pilumnus hirtellus;107418;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Pilumnidae;Pilumnus;Pilumnus hirtellus;Eumalacostraca;Pleocyemata;Pilumninae;NA;NA;NA;NA;NA;Brachyura;Pilumnoidea;NA;NA;Eubrachyura;Heterotremata;Species
+Pinnotheres pisum;107473;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Pinnotheridae;Pinnotheres;Pinnotheres pisum;Eumalacostraca;Pleocyemata;Pinnotherinae;NA;NA;NA;NA;NA;Brachyura;Pinnotheroidea;NA;NA;Eubrachyura;Thoracotremata;Species
+Athanas nitescens;107486;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Alpheidae;Athanas;Athanas nitescens;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Alpheoidea;NA;NA;NA;NA;Species
+Eualus occultus;107506;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Thoridae;Eualus;Eualus occultus;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Alpheoidea;NA;NA;NA;NA;Species
+Crangon allmanni;107551;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Crangonidae;Crangon;Crangon allmanni;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Crangonoidea;NA;NA;NA;NA;Species
+Crangon crangon;107552;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Crangonidae;Crangon;Crangon crangon;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Crangonoidea;NA;NA;NA;NA;Species
+Philocheras trispinosus;107562;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Crangonidae;Philocheras;Philocheras trispinosus;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Caridea;Crangonoidea;NA;NA;NA;NA;Species
+Upogebia deltaura;107739;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Upogebiidae;Upogebia;Upogebia deltaura;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Gebiidea;NA;NA;NA;NA;NA;Species
+Pseudocuma;110427;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Cumacea;Pseudocumatidae;Pseudocuma;NA;Eumalacostraca;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Electra pilosa;111355;Animalia;Bryozoa;NA;NA;Gymnolaemata;NA;NA;Cheilostomatida;Electridae;Electra;Electra pilosa;NA;Membraniporina;NA;NA;NA;NA;NA;NA;NA;Membraniporoidea;NA;NA;NA;NA;Species
+Thalestridae;115181;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Thalestridae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Tisbidae;115183;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Tisbidae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Harpacticus;115349;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Harpacticidae;Harpacticus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Tigriopus;115351;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Harpacticidae;Tigriopus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Zaus;115352;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Harpacticidae;Zaus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Laophonte;115374;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Laophontidae;Laophonte;NA;NA;NA;Laophontinae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Longipedia;115403;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Canuelloida;Longipediidae;Longipedia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Alteutha;115427;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Peltidiidae;Alteutha;NA;NA;NA;Peltidiinae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Sacodiscus;115480;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Tisbidae;Sacodiscus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Euterpina acutifrons;116162;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Tachidiidae;Euterpina;Euterpina acutifrons;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Laophontopsis lamellifera;116327;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Laophontopsidae;Laophontopsis;Laophontopsis lamellifera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Microarthridion littorale;116498;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Tachidiidae;Microarthridion;Microarthridion littorale;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Bougainvillia;117015;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Bougainvilliidae;Bougainvillia;NA;Hydroidolina;Filifera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Obelia;117034;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Leptothecata;Campanulariidae;Obelia;NA;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Sarsia;117070;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Corynidae;Sarsia;NA;Hydroidolina;Capitata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Hydractinia;117117;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Hydractiniidae;Hydractinia;NA;Hydroidolina;Filifera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Rathkea;117211;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Rathkeidae;Rathkea;NA;Hydroidolina;Filifera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Nemopsis bachei;117348;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Bougainvilliidae;Nemopsis;Nemopsis bachei;Hydroidolina;Filifera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Clytia hemisphaerica;117368;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Leptothecata;Campanulariidae;Clytia;Clytia hemisphaerica;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Sarsia tubulosa;117491;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Corynidae;Sarsia;Sarsia tubulosa;Hydroidolina;Capitata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Eutima gegenbauri;117514;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Leptothecata;Eirenidae;Eutima;Eutima gegenbauri;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Eucheilota maculata;117535;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Leptothecata;Lovenellidae;Eucheilota;Eucheilota maculata;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Margelopsis haeckelii;117741;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Margelopsidae;Margelopsis;Margelopsis haeckelii;Hydroidolina;Aplanulata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Mitrocomella brownei;117754;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Leptothecata;Mitrocomidae;Mitrocomella;Mitrocomella brownei;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Phialella quadrata;117804;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Leptothecata;Phialellidae;Phialella;Phialella quadrata;Hydroidolina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Rathkea octopunctata;117848;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Rathkeidae;Rathkea;Rathkea octopunctata;Hydroidolina;Filifera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Ectopleura dumortierii;117982;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Tubulariidae;Ectopleura;Ectopleura dumortierii;Hydroidolina;Aplanulata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Hybocodon prolifer;117988;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Tubulariidae;Hybocodon;Hybocodon prolifer;Hydroidolina;Aplanulata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Jaera;118364;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Isopoda;Janiridae;Jaera;NA;Eumalacostraca;Asellota;NA;NA;NA;NA;NA;NA;NA;Janiroidea;NA;NA;NA;NA;Genus
+Monstrilla;119780;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Monstrilloida;Monstrillidae;Monstrilla;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Monstrilla longicornis;119804;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Monstrilloida;Monstrillidae;Monstrilla;Monstrilla longicornis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Gastrosaccus;119859;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;Mysidae;Gastrosaccus;NA;Eumalacostraca;NA;Gastrosaccinae;Gastrosaccini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Paramysis;119892;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;Mysidae;Paramysis;NA;Eumalacostraca;NA;Mysinae;Paramysini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Schistomysis;119905;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;Mysidae;Schistomysis;NA;Eumalacostraca;NA;Mysinae;Paramysini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Anchialina agilis;119950;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;Mysidae;Anchialina;Anchialina agilis;Eumalacostraca;NA;Gastrosaccinae;Anchialinini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Mesopodopsis slabberi;120072;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;Mysidae;Mesopodopsis;Mesopodopsis slabberi;Eumalacostraca;NA;Mysinae;Mysini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Neomysis integer;120136;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;Mysidae;Neomysis;Neomysis integer;Eumalacostraca;NA;Mysinae;Neomysini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Schistomysis spiritus;120206;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;Mysidae;Schistomysis;Schistomysis spiritus;Eumalacostraca;NA;Mysinae;Paramysini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Asteroidea;123080;Animalia;Echinodermata;Asterozoa;NA;Asteroidea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Echinoidea;123082;Animalia;Echinodermata;Echinozoa;NA;Echinoidea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Ophiuroidea;123084;Animalia;Echinodermata;Asterozoa;NA;Ophiuroidea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Ophiuridae;123200;Animalia;Echinodermata;Asterozoa;NA;Ophiuroidea;Metophiurida;Euryophiurida;Ophiurida;Ophiuridae;NA;NA;Myophiuroida;Ophiurina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Echinocardium;123426;Animalia;Echinodermata;Echinozoa;NA;Echinoidea;Irregularia;NA;Spatangoida;Loveniidae;Echinocardium;NA;Euechinoidea;Brissidina;Echinocardiinae;NA;NA;NA;NA;NA;NA;Spatangoidea;NA;Atelostomata;NA;NA;Genus
+Ophiura;123574;Animalia;Echinodermata;Asterozoa;NA;Ophiuroidea;Metophiurida;Euryophiurida;Ophiurida;Ophiuridae;Ophiura;NA;Myophiuroida;Ophiurina;Ophiurinae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Asterias rubens;123776;Animalia;Echinodermata;Asterozoa;NA;Asteroidea;Neoasteroidea;Forcipulatacea;Forcipulatida;Asteriidae;Asterias;Asterias rubens;Ambuloasteroidea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Echinus esculentus;124287;Animalia;Echinodermata;Echinozoa;NA;Echinoidea;Carinacea;NA;Camarodonta;Echinidae;Echinus;Echinus esculentus;Euechinoidea;NA;NA;NA;NA;NA;NA;NA;Echinidea;NA;NA;Echinacea;NA;NA;Species
+Echinocardium cordatum;124392;Animalia;Echinodermata;Echinozoa;NA;Echinoidea;Irregularia;NA;Spatangoida;Loveniidae;Echinocardium;Echinocardium cordatum;Euechinoidea;Brissidina;Echinocardiinae;NA;NA;NA;NA;NA;NA;Spatangoidea;NA;Atelostomata;NA;NA;Species
+Ophiothrix fragilis;125131;Animalia;Echinodermata;Asterozoa;NA;Ophiuroidea;Metophiurida;Ophintegrida;Amphilepidida;Ophiotrichidae;Ophiothrix;Ophiothrix fragilis;Myophiuroida;Gnathophiurina;NA;NA;NA;NA;NA;NA;NA;Ophiactoidea;NA;NA;NA;NA;Species
+Clupeidae;125464;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Clupeiformes;Clupeidae;NA;NA;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Family
+Lotidae;125470;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Gadiformes;Lotidae;NA;NA;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Family
+Ammodytidae;125516;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Perciformes;Ammodytidae;NA;NA;NA;Uranoscopoidei;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Family
+Gobiidae;125537;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Gobiiformes;Gobiidae;NA;NA;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Family
+Soleidae;125581;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Pleuronectiformes;Soleidae;NA;NA;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Family
+Gaidropsarus;125743;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Gadiformes;Gaidropsaridae;Gaidropsarus;NA;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Genus
+Ammodytes;125909;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Perciformes;Ammodytidae;Ammodytes;NA;NA;Uranoscopoidei;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Genus
+Callionymus;125930;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Callionymiformes;Callionymidae;Callionymus;NA;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Genus
+Clupea harengus;126417;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Clupeiformes;Clupeidae;Clupea;Clupea harengus;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Sardina pilchardus;126421;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Clupeiformes;Alosidae;Sardina;Sardina pilchardus;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Sprattus sprattus;126425;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Clupeiformes;Clupeidae;Sprattus;Sprattus sprattus;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Merlangius merlangus;126438;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Gadiformes;Gadidae;Merlangius;Merlangius merlangus;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Blennius ocellaris;126761;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Blenniiformes;Blenniidae;Blennius;Blennius ocellaris;NA;NA;Blenniinae;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Limanda limanda;127139;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Pleuronectiformes;Pleuronectidae;Limanda;Limanda limanda;NA;NA;Pleuronectinae;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Buglossidium luteum;127153;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Pleuronectiformes;Soleidae;Buglossidium;Buglossidium luteum;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Solea solea;127160;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Pleuronectiformes;Soleidae;Solea;Solea solea;NA;NA;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Taurulus bubalis;127204;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Perciformes;Cottidae;Taurulus;Taurulus bubalis;NA;Cottoidei;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Platycopia perplexa;128558;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Progymnoplea;NA;Platycopioida;Platycopiidae;Platycopia;Platycopia perplexa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Clausidiidae;128567;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Clausidiidae;NA;NA;NA;Ergasilida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Corycaeus;128634;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Corycaeidae;Corycaeus;NA;NA;Ergasilida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Oncaea;128690;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Oncaeidae;Oncaea;NA;NA;Ergasilida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Ditrichocorycaeus anglicus;128805;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Corycaeidae;Ditrichocorycaeus;Ditrichocorycaeus anglicus;NA;Ergasilida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Triconia conifera;128957;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Oncaeidae;Triconia;Triconia conifera;NA;Ergasilida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Nephtys;129370;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;Phyllodocida;Nephtyidae;Nephtys;NA;Errantia;Phyllodocida incertae sedis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Myrianida;129659;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;Phyllodocida;Syllidae;Myrianida;NA;Errantia;Nereidiformia;Autolytinae;Autolytini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Magelona papillicornis;130272;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;NA;Magelonidae;Magelona;Magelona papillicornis;Polychaeta incertae sedis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Harmothoe imbricata;130769;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;Phyllodocida;Polynoidae;Harmothoe;Harmothoe imbricata;Errantia;Aphroditiformia;Polynoinae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Polydora ciliata;131141;Animalia;Annelida;NA;NA;Polychaeta;Canalipalpata;NA;Spionida;Spionidae;Polydora;Polydora ciliata;Sedentaria;Spioniformia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Lanice conchilega;131495;Animalia;Annelida;NA;NA;Polychaeta;Canalipalpata;NA;Terebellida;Terebellidae;Lanice;Lanice conchilega;Sedentaria;Terebelliformia;Terebellinae;Lanicini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Peltogaster paguri;134798;Animalia;Arthropoda;Crustacea;Multicrustacea;Thecostraca;Rhizocephala;NA;NA;Peltogastridae;Peltogaster;Peltogaster paguri;Cirripedia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Scyphozoa;135220;Animalia;Cnidaria;Medusozoa;NA;Scyphozoa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Caligidae;135513;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Siphonostomatoida;Caligidae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+Caligus;135566;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Siphonostomatoida;Caligidae;Caligus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Lernaeocera;135645;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Siphonostomatoida;Pennellidae;Lernaeocera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Caligus elongatus;135754;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Siphonostomatoida;Caligidae;Caligus;Caligus elongatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Rissoides desmaresti;136135;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;NA;Stomatopoda;Squillidae;Rissoides;Rissoides desmaresti;Hoplocarida;Unipeltata;NA;NA;NA;NA;NA;NA;NA;Squilloidea;NA;NA;NA;NA;Species
+Doliolum;137222;Animalia;Chordata;Tunicata;NA;Thaliacea;NA;NA;Doliolida;Doliolidae;Doliolum;NA;NA;Doliolidina;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Bryozoa;146142;Animalia;Bryozoa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+Appendicularia;146421;Animalia;Chordata;Tunicata;NA;Appendicularia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+Monocorophium sextonae;148603;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Corophiidae;Monocorophium;Monocorophium sextonae;Eumalacostraca;Senticaudata;Corophiinae;Corophiini;NA;NA;NA;NA;Corophiida;Corophioidea;Corophiidira;NA;NA;NA;Species
+Asterozoa;148743;Animalia;Echinodermata;Asterozoa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Subphylum
+Mysida;149668;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Mysida;NA;NA;NA;Eumalacostraca;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+Echiichthys vipera;150630;Animalia;Chordata;Vertebrata;Actinopteri;Teleostei;NA;NA;Perciformes;Trachinidae;Echiichthys;Echiichthys vipera;NA;Percoidei;NA;NA;NA;Gnathostomata;Osteichthyes;Actinopterygii;NA;NA;NA;NA;NA;NA;Species
+Coryne eximia;151860;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Corynidae;Coryne;Coryne eximia;Hydroidolina;Capitata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Lagis koreni;152367;Animalia;Annelida;NA;NA;Polychaeta;Canalipalpata;NA;Terebellida;Pectinariidae;Lagis;Lagis koreni;Sedentaria;Terebelliformia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Macropodia;205077;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Inachidae;Macropodia;NA;Eumalacostraca;Pleocyemata;Inachinae;NA;NA;NA;NA;NA;Brachyura;Majoidea;NA;NA;Eubrachyura;Heterotremata;Genus
+Pestarella tyrrhena;238027;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Eucarida;Decapoda;Callianassidae;Pestarella;Pestarella tyrrhena;Eumalacostraca;Pleocyemata;NA;NA;NA;NA;NA;NA;Axiidea;NA;NA;NA;NA;NA;Species
+Myrianida edwarsi;238194;Animalia;Annelida;NA;NA;Polychaeta;NA;NA;Phyllodocida;Syllidae;Myrianida;Myrianida edwarsi;Errantia;Nereidiformia;Autolytinae;Autolytini;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Pleopis polyphemoides;247981;Animalia;Arthropoda;Crustacea;Allotriocarida;Branchiopoda;NA;Diplostraca;Onychopoda;Podonidae;Pleopis;Pleopis polyphemoides;Phyllopoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Stauridiosarsia producta;254368;Animalia;Cnidaria;Medusozoa;NA;Hydrozoa;NA;NA;Anthoathecata;Corynidae;Stauridiosarsia;Stauridiosarsia producta;Hydroidolina;Capitata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Pseudodiaptomus marinus;360352;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Pseudodiaptomidae;Pseudodiaptomus;Pseudodiaptomus marinus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Cyclopinoides dilatata;360987;Animalia;Arthropoda;Crustacea;Multicrustacea;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Smirnovipinidae;Cyclopinoides;Cyclopinoides dilatata;NA;Oithonida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Species
+Nototropis swammerdamei;488966;Animalia;Arthropoda;Crustacea;Multicrustacea;Malacostraca;NA;Peracarida;Amphipoda;Atylidae;Nototropis;Nototropis swammerdamei;Eumalacostraca;Amphilochidea;Nototropiinae;NA;NA;NA;NA;NA;Lysianassida;Dexaminoidea;Synopiidira;NA;NA;NA;Species
+Beroe;1434803;Animalia;Ctenophora;NA;NA;Nuda;NA;NA;Beroida;Beroidae;Beroe;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+Noctiluca scintillans;0;;;;;;;;;;;;;;;;;;;;;;;;;;

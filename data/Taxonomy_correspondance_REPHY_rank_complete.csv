@@ -1,0 +1,663 @@
+﻿aphiaID;TAXON;Kingdom;Subkingdom;Infrakingdom;Phylum;Subphylum;Infraphylum;Class;Subclass;Order;Family;Genus;Species;Superorder;Phylum (Division);Subfamily;Subphylum (Subdivision);Superclass;Forma;Suborder;Variety;rank
+7;Chromista;Chromista;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Kingdom
+11;Ciliophora;Chromista;Harosa;Alveolata;Ciliophora;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+801;Chlorophyta;Plantae;Viridiplantae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Chlorophyta;NA;NA;NA;NA;NA;NA;Phylum (Division)
+802;Chlorophyceae;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorophyceae;NA;NA;NA;NA;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Class
+8012;Euglena;Protozoa;Eozoa;Euglenozoa;Euglenozoa;Euglenoida;Dipilida;Euglenophyceae;Euglenophycidae;Euglenales;Euglenaceae;Euglena;NA;NA;NA;Euglenoideae;NA;NA;NA;NA;NA;Genus
+17329;Prasinophyceae;Plantae;Viridiplantae;NA;NA;NA;NA;Prasinophyceae;NA;NA;NA;NA;NA;NA;Chlorophyta;NA;NA;NA;NA;NA;NA;Class
+17639;Cryptophyceae;Chromista;Hacrobia;NA;Cryptophyta;NA;NA;Cryptophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+17640;Cryptomonadales;Chromista;Hacrobia;NA;Cryptophyta;NA;NA;Cryptophyceae;NA;Cryptomonadales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+17655;Eutreptiaceae;Protozoa;Eozoa;Euglenozoa;Euglenozoa;Euglenoida;Dipilida;Euglenophyceae;Euglenophycidae;Eutreptiales;Eutreptiaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+17657;Eutreptiella;Protozoa;Eozoa;Euglenozoa;Euglenozoa;Euglenoida;Dipilida;Euglenophyceae;Euglenophycidae;Eutreptiales;Eutreptiaceae;Eutreptiella;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+17666;Chlorodendrales;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorodendrophyceae;NA;Chlorodendrales;NA;NA;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Order
+19542;Dinophyceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+21001;Euglenaceae;Protozoa;Eozoa;Euglenozoa;Euglenozoa;Euglenoida;Dipilida;Euglenophyceae;Euglenophycidae;Euglenales;Euglenaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+101190;Laboea;Chromista;Harosa;Alveolata;Ciliophora;Intramacronucleata;NA;Oligotrichea;Oligotrichia;Oligotrichida;Tontoniidae;Laboea;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109390;Dinophysiales;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysiales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+109391;Gonyaulacales;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+109392;Gymnodiniales;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+109393;Noctilucales;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+109394;Peridiniales;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+109396;Prorocentrales;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+109406;Dinophysiaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysiales;Dinophysiaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109408;Goniodomataceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Goniodomataceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109410;Gymnodiniaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109413;Polykrikaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Polykrikaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109415;Warnowiaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Warnowiaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109418;Noctilucaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;Noctilucaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109421;Ceratiaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109428;Gonyaulacaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109432;Oxytoxaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109433;Peridiniaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109436;Pyrophacaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrophacaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109442;Prorocentraceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109444;Pyrocystaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+109458;Pseliodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinoflagellata incertae sedis;NA;NA;NA;Pseliodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109462;Dinophysis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109463;Histioneis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Histioneis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109464;Ornithocercus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Ornithocercus;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109466;Phalacroma;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Oxyphysaceae;Phalacroma;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109467;Sinophysis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Sinophysis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109468;Fragilidium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrophacaceae;Fragilidium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109470;Alexandrium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;NA;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Genus
+109473;Amphidinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Amphidiniales;Amphidiniaceae;Amphidinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109474;Cochlodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Cochlodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109475;Gymnodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Gymnodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109476;Gyrodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gyrodiniaceae;Gyrodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109477;Katodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Tovelliales;Tovelliaceae;Katodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109479;Torodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Torodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109485;Polykrikos;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Polykrikaceae;Polykrikos;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109486;Oxyrrhis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Oxyrrhinales;Oxyrrhinaceae;Oxyrrhis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109487;Pronoctiluca;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;Protodiniferaceae;Pronoctiluca;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109490;Nematodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Warnowiaceae;Nematodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109491;Warnowia;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Warnowiaceae;Warnowia;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109500;Noctiluca;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;Noctilucaceae;Noctiluca;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109502;Spatulodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;Kofoidiniaceae;Spatulodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109506;Ceratium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Ceratium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109507;Ceratocorys;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratocoryaceae;Ceratocorys;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109508;Ceratoperidinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Warnowiaceae;Ceratoperidinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109510;Micracanthodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Cladopyxidaceae;Micracanthodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109512;Palaeophalacroma;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Cladopyxidaceae;Palaeophalacroma;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109515;Diplopsalis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Diplopsalis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109517;Amphidoma;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophyceae incertae sedis;Amphidomataceae;Amphidoma;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109518;Amylax;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Amylax;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109519;Gonyaulax;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109524;Ostreopsis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Ostreopsis;NA;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Genus
+109525;Adenoides;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniida incertae sedis;Adenoides;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109526;Centrodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ostreopsidaceae;Centrodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109527;Corythodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Corythodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109528;Oxytoxum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109534;Coolia;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ostreopsidaceae;Coolia;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109537;Diplopsalopsis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Diplopsalopsis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109540;Heterocapsa;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Heterocapsaceae;Heterocapsa;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109541;Kryptoperidinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniaceae;Kryptoperidinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109542;Oblea;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Oblea;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109543;Peridiniella;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Cladopyxidaceae;Peridiniella;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109545;Scrippsiella;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Thoracosphaerales;Thoracosphaeraceae;Scrippsiella;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109548;Blepharocysta;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Podolampadaceae;Blepharocysta;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109549;Peridinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniaceae;Peridinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109550;Podolampas;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Podolampadaceae;Podolampas;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109553;Protoperidinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109555;Pyrophacus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrophacaceae;Pyrophacus;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109556;Amphidiniopsis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Amphidiniopsis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109557;Thecadinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Thecadinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109559;Goniodoma;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Thoracosphaerales;Thoracosphaeraceae;Goniodoma;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109560;Triadinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Goniodomataceae;Triadinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109564;Mesoporos;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Mesoporos;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109566;Prorocentrum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109567;Protoceratium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Protoceratiaceae;Protoceratium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109571;Pyrocystis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Pyrocystis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+109603;Dinophysis acuminata;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis acuminata;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109604;Dinophysis acuta;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis acuta;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109612;Dinophysis caudata;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis caudata;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109624;Dinophysis fortii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis fortii;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109637;Dinophysis norvegica;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis norvegica;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109638;Dinophysis odiosa;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis odiosa;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109662;Dinophysis tripos;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis tripos;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109707;Alexandrium affine;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium affine;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+109710;Alexandrium leei;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium leei;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+109711;Alexandrium minutum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium minutum;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+109712;Alexandrium ostenfeldii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium ostenfeldii;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+109713;Alexandrium pseudogonyaulax;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium pseudogonyaulax;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+109714;Alexandrium tamarense;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium tamarense;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+109723;Amphidinium carterae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Amphidiniales;Amphidiniaceae;Amphidinium;Amphidinium carterae;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109726;Amphidinium crassum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Amphidiniales;Amphidiniaceae;Amphidinium;Amphidinium crassum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109754;Amphidinium sphenoides;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Amphidiniales;Amphidiniaceae;Amphidinium;Amphidinium sphenoides;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109784;Gymnodinium catenatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Gymnodinium;Gymnodinium catenatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109856;Gyrodinium fusiforme;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gyrodiniaceae;Gyrodinium;Gyrodinium fusiforme;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109876;Gyrodinium spirale;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gyrodiniaceae;Gyrodinium;Gyrodinium spirale;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109885;Katodinium glaucum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Tovelliales;Tovelliaceae;Katodinium;Katodinium glaucum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109889;Torodinium robustum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Torodinium;Torodinium robustum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109901;Polykrikos schwarzii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Polykrikaceae;Polykrikos;Polykrikos schwartzii;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109902;Oxyrrhis marina;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Oxyrrhinales;Oxyrrhinaceae;Oxyrrhis;Oxyrrhis marina;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109920;Kofoidinium velleloides;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;Kofoidiniaceae;Kofoidinium;Kofoidinium velleloides;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109921;Noctiluca scintillans;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;Noctilucaceae;Noctiluca;Noctiluca scintillans;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109923;Spatulodinium pseudonoctiluca;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Noctilucales;Kofoidiniaceae;Spatulodinium;Spatulodinium pseudonoctiluca;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109984;Ceratocorys armata;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratocoryaceae;Ceratocorys;Ceratocorys armata;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110007;Amylax triacantha;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Amylax;Amylax triacantha;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110015;Gonyaulax digitale;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;Gonyaulax digitale;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110035;Gonyaulax polygramma;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;Gonyaulax polygramma;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110041;Gonyaulax spinifera;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;Gonyaulax spinifera;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110045;Gonyaulax verior;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;Gonyaulax verior;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110068;Ostreopsis ovata;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Ostreopsis;Ostreopsis ovata;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+110082;Oxytoxum caudatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum caudatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110085;Oxytoxum constrictum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum constrictum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110102;Oxytoxum mediterraneum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum mediterraneum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110114;Oxytoxum sceptrum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum sceptrum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110115;Oxytoxum scolopax;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum scolopax;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110116;Oxytoxum sphaeroideum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum sphaeroideum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110122;Oxytoxum viride;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum viride;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110152;Heterocapsa rotundata;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa rotundata;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110199;Podolampas bipes;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Podolampadaceae;Podolampas;Podolampas bipes;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110202;Podolampas spinifera;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Podolampadaceae;Podolampas;Podolampas spinifera;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110208;Protoperidinium bipes;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium bipes;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110210;Protoperidinium brevipes;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium brevipes;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110213;Protoperidinium conicum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium conicum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110214;Protoperidinium crassipes;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium crassipes;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110217;Protoperidinium depressum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium depressum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110219;Protoperidinium divergens;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium divergens;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110223;Protoperidinium granii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium granii;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110238;Protoperidinium oblongum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium oblongum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110239;Protoperidinium obtusum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium obtusum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110240;Protoperidinium oceanicum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium oceanicum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110241;Protoperidinium ovatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium ovatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110242;Protoperidinium oviforme;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium oviforme;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110244;Protoperidinium pallidum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium pallidum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110245;Protoperidinium pellucidum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium pellucidum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110248;Protoperidinium punctulatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium punctulatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110249;Protoperidinium pyriforme;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium pyriforme;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110257;Protoperidinium steinii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium steinii;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110292;Prorocentrum arcuatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum arcuatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110298;Prorocentrum dentatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum dentatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110300;Prorocentrum gracile;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum gracile;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110301;Prorocentrum lima;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum lima;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110303;Prorocentrum micans;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum micans;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110314;Prorocentrum scutellum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum scutellum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110316;Prorocentrum triestinum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum triestinum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110321;Protoceratium reticulatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Protoceratiaceae;Protoceratium;Protoceratium reticulatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+110334;Pyrocystis robusta;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Pyrocystis;Pyrocystis robusta;NA;NA;NA;NA;NA;NA;NA;NA;Species
+115057;Prymnesiophyceae;Chromista;Hacrobia;NA;Haptophyta;NA;NA;Prymnesiophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+115059;Coccosphaerales;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;NA;Coccosphaerales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+115061;Prymnesiales;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Prymnesiales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+115073;Prymnesiaceae;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Prymnesiales;Prymnesiaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+115075;Meringosphaera;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Xanthophyceae;NA;Mischococcales;Pleurochloridaceae;Meringosphaera;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+115081;Ophiaster;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Syracosphaerales;Syracosphaeraceae;Ophiaster;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+115088;Phaeocystis;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Phaeocystales;Phaeocystaceae;Phaeocystis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+115090;Chrysochromulina;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Prymnesiales;Chrysochromulinaceae;Chrysochromulina;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+118014;Ebria;Chromista;Harosa;Rhizaria;Cercozoa;NA;NA;Thecofilosea;Eothecia;Ebriales;Ebriaceae;Ebria;NA;NA;NA;NA;NA;Ventrifilosa;NA;NA;NA;Genus
+118051;Ebria tripartita;Chromista;Harosa;Rhizaria;Cercozoa;NA;NA;Thecofilosea;Eothecia;Ebriales;Ebriaceae;Ebria;Ebria tripartita;NA;NA;NA;NA;Ventrifilosa;NA;NA;NA;Species
+134526;Tetraselmis;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorodendrophyceae;NA;Chlorodendrales;Chlorodendraceae;Tetraselmis;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Genus
+134528;Halosphaera;Plantae;Viridiplantae;NA;NA;NA;NA;Pyramimonadophyceae;NA;Pyramimonadales;Pyramimonadaceae;Halosphaera;NA;NA;Chlorophyta;NA;Prasinophytina;NA;NA;NA;NA;Genus
+134529;Pyramimonas;Plantae;Viridiplantae;NA;NA;NA;NA;Pyramimonadophyceae;NA;Pyramimonadales;Pyramimonadaceae;Pyramimonas;NA;NA;Chlorophyta;NA;Prasinophytina;NA;NA;NA;NA;Genus
+146203;Dinoflagellata;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Infraphylum
+146208;Ebriaceae;Chromista;Harosa;Rhizaria;Cercozoa;NA;NA;Thecofilosea;Eothecia;Ebriales;Ebriaceae;NA;NA;NA;NA;NA;NA;Ventrifilosa;NA;NA;NA;Family
+146230;Chrysophyceae;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Chrysophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+146232;Dictyochophyceae;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+146537;Cyanobacteria;Bacteria;Negibacteria;NA;Cyanobacteria;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Phylum
+146542;Cyanophyceae;Bacteria;Negibacteria;NA;Cyanobacteria;NA;NA;Cyanophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+146545;Merismopedia;Bacteria;Negibacteria;NA;Cyanobacteria;NA;NA;Cyanophyceae;Oscillatoriophycidae;Chroococcales;Microcystaceae;Merismopedia;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+146549;Oscillatoria;Bacteria;Negibacteria;NA;Cyanobacteria;NA;NA;Cyanophyceae;Oscillatoriophycidae;Oscillatoriales;Oscillatoriaceae;Oscillatoria;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+146557;Microcystis;Bacteria;Negibacteria;NA;Cyanobacteria;NA;NA;Cyanophyceae;Oscillatoriophycidae;Chroococcales;Microcystaceae;Microcystis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+146585;Anabaena;Bacteria;Negibacteria;NA;Cyanobacteria;NA;NA;Cyanophyceae;Nostocophycidae;Nostocales;Aphanizomenonaceae;Anabaena;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+148899;Bacillariophyceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+148903;Thalassiosirales;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;NA;NA;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Order
+148904;Thalassiosiraceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;NA;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Family
+148905;Cyclotella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Stephanodiscaceae;Cyclotella;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Genus
+148912;Thalassiosira;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Genus
+148913;Thalassiosira angulata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira angulata;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148914;Thalassiosira anguste-lineata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira anguste-lineata;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148915;Coscinodiscales;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;NA;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Order
+148916;Coscinodiscaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Coscinodiscaceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+148917;Coscinodiscus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Coscinodiscaceae;Coscinodiscus;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+148919;Thalassiosira decipiens;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira decipiens;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148922;Thalassiosira eccentrica;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira eccentrica;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148923;Thalassiosira hendeyi;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira hendeyi;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148925;Thalassiosira minima;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira minima;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148931;Thalassiosira nordenskioeldii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira nordenskioeldii;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148936;Thalassiosira punctigera;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira punctigera;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+148943;Hemidiscaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Hemidiscaceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+148944;Actinocyclus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Hemidiscaceae;Actinocyclus;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+148946;Heliopeltaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Heliopeltaceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+148947;Actinoptychus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Heliopeltaceae;Actinoptychus;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+148948;Actinoptychus senarius;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Heliopeltaceae;Actinoptychus;Actinoptychus senarius;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+148952;Fragilariaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;NA;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+148953;Asterionella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Asterionella;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+148954;Asterionella formosa;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Asterionella;Asterionella formosa;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+148958;Aulacoseiraceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Aulacoseirales;Aulacoseiraceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+148959;Aulacoseira;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Aulacoseirales;Aulacoseiraceae;Aulacoseira;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+148963;Odontella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Odontella;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+148966;Biddulphiaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Biddulphiales;Biddulphiaceae;NA;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Family
+148967;Biddulphia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Biddulphiales;Biddulphiaceae;Biddulphia;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+148971;Coscinodiscophycidae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Subclass
+148980;Porosira;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Porosira;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Genus
+148984;Chaetocerotaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;NA;NA;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Family
+148985;Chaetoceros;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;NA;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Genus
+148986;Chaetoceros mitra;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros mitra;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+148989;Cocconeis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Achnanthales;Cocconeidaceae;Cocconeis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149002;Bacillariaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149003;Cylindrotheca;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Cylindrotheca;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149004;Cylindrotheca closterium;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Cylindrotheca;Cylindrotheca closterium;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149006;Surirellaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Surirellales;Surirellaceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149010;Cymatosiraceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;NA;NA;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149013;Diatoma;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Diatoma;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149015;Naviculales;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;NA;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Order
+149018;Diploneis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Diploneidaceae;Diploneis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149021;Lithodesmiaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;NA;NA;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149022;Ditylum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;Ditylum;NA;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149023;Ditylum brightwellii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;Ditylum;Ditylum brightwellii;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149028;Fragilaria;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Fragilaria;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149031;Naviculaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149033;Gyrosigma;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Pleurosigmataceae;Gyrosigma;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149037;Leptocylindraceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Leptocylindrales;Leptocylindraceae;NA;NA;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Family
+149038;Leptocylindrus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Leptocylindrales;Leptocylindraceae;Leptocylindrus;NA;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149039;Leptocylindrus minimus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Leptocylindrales;Leptocylindraceae;Leptocylindrus;Leptocylindrus minimus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149041;Melosiraceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Melosiraceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+149042;Melosira;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Melosiraceae;Melosira;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149044;Melosira nummuloides;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Melosiraceae;Melosira;Melosira nummuloides;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+149045;Nitzschia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Nitzschia;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149049;Triceratiaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;NA;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Family
+149050;Odontella aurita;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Odontella;Odontella aurita;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+149054;Paralia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Paraliales;Paraliaceae;Paralia;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149055;Paralia sulcata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Paraliales;Paraliaceae;Paralia;Paralia sulcata;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+149056;Plagiogrammopsis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;Plagiogrammopsis;NA;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149057;Plagiogrammopsis vanheurckii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;Plagiogrammopsis;Plagiogrammopsis vanheurckii;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149058;Hyalodiscaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Hyalodiscaceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+149059;Podosira;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Hyalodiscaceae;Podosira;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149060;Podosira stelligera;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Hyalodiscaceae;Podosira;Podosira stelligera;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+149065;Rhaphoneis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Rhaponeidales;Rhaphoneidaceae;Rhaphoneis;NA;Bacillariophycidae incertae sedis;NA;NA;NA;NA;NA;NA;NA;Genus
+149066;Rhaphoneis amphiceros;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Rhaponeidales;Rhaphoneidaceae;Rhaphoneis;Rhaphoneis amphiceros;Bacillariophycidae incertae sedis;NA;NA;NA;NA;NA;NA;NA;Species
+149068;Rhizosoleniaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;NA;NA;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Family
+149069;Rhizosolenia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;NA;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149070;Rhizosolenia hebetata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia hebetata;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149073;Skeletonema;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Skeletonemaceae;Skeletonema;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Genus
+149074;Skeletonema costatum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Skeletonemaceae;Skeletonema;Skeletonema costatum;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+149077;Stauroneis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Stauroneidaceae;Stauroneis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149084;Surirella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Surirellales;Surirellaceae;Surirella;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149091;Thalassionemataceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Thalassionematales;Thalassionemataceae;NA;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149092;Thalassionema;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Thalassionematales;Thalassionemataceae;Thalassionema;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149093;Thalassionema nitzschioides;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Thalassionematales;Thalassionemataceae;Thalassionema;Thalassionema nitzschioides;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149095;Odontella sinensis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Odontella;Odontella sinensis;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+149099;Thalassiosira antarctica;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira antarctica;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+149101;Thalassiosira subtilis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira subtilis;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+149102;Thalassiosira gravida;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira gravida;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+149106;Leptocylindrus danicus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Leptocylindrales;Leptocylindraceae;Leptocylindrus;Leptocylindrus danicus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149109;Corethron;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Corethrales;Corethraceae;Corethron;NA;Corethranae;NA;NA;NA;NA;NA;NA;NA;Genus
+149111;Guinardia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Guinardia;NA;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149112;Guinardia delicatula;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Guinardia;Guinardia delicatula;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149113;Guinardia striata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Guinardia;Guinardia striata;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149115;Rhizosolenia setigera;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia setigera;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149116;Rhizosolenia imbricata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia imbricata;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149118;Bacteriastrum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Bacteriastrum;NA;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149119;Bacteriastrum hyalinum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Bacteriastrum;Bacteriastrum hyalinum;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149120;Chaetoceros danicus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros danicus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149121;Chaetoceros densus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros densus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149122;Chaetoceros didymus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros didymus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149123;Chaetoceros socialis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros socialis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149125;Chaetoceros teres;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros teres;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149126;Chaetoceros decipiens;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros decipiens;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149127;Chaetoceros similis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros similis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149128;Chaetoceros diadema;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros diadema;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149129;Chaetoceros compressus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros compressus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149130;Eucampia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Eucampia;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149131;Eucampia zodiacus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia zodiacus;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+149132;Guinardia flaccida;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Guinardia;Guinardia flaccida;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149134;Lauderia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Lauderiaceae;Lauderia;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Genus
+149135;Lauderia annulata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Lauderiaceae;Lauderia;Lauderia annulata;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+149136;Brockmanniella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;Brockmanniella;NA;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149137;Brockmanniella brockmannii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;Brockmanniella;Brockmanniella brockmannii;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149138;Asterionellopsis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Asterionellopsis;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149139;Asterionellopsis glacialis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Asterionellopsis;Asterionellopsis glacialis;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149140;Amphiprora;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Amphipleuraceae;Amphiprora;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149142;Navicula;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Navicula;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149144;Meuniera;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Meuniera;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149145;Meuniera membranacea;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Meuniera;Meuniera membranacea;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149146;Trachyneis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Trachyneis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149148;Bacillaria;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Bacillaria;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149150;Nitzschia longissima;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia longissima;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149151;Pseudo-nitzschia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149152;Pseudo-nitzschia seriata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia seriata;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149153;Pseudo-nitzschia delicatissima;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia delicatissima;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149154;Triceratium;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Triceratium;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149156;Odontella granulata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Odontella;Odontella granulata;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+149158;Coscinodiscus radiatus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Coscinodiscaceae;Coscinodiscus;Coscinodiscus radiatus;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+149161;Schroederella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Melosiraceae;Schroederella;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149167;Proboscia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;NA;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149168;Proboscia alata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;Proboscia alata;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149170;Triceratium favus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Triceratium;Triceratium favus;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+149173;Chaetoceros fragilis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros fragilis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149176;Striatella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Striatellales;Striatellaceae;Striatella;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149177;Striatella unipunctata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Striatellales;Striatellaceae;Striatella;Striatella unipunctata;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149179;Delphineis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Rhaponeidales;Rhaphoneidaceae;Delphineis;NA;Bacillariophycidae incertae sedis;NA;NA;NA;NA;NA;NA;NA;Genus
+149181;Pleurosigma;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Pleurosigmataceae;Pleurosigma;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149186;Synedra;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Synedra;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149190;Achnanthaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Achnanthales;Achnanthaceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149191;Achnanthes;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Achnanthales;Achnanthaceae;Achnanthes;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149200;Amphora;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Thalassiophysales;Catenulaceae;Amphora;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149208;Pinnularia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Pinnulariaceae;Pinnularia;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149210;Haslea;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Haslea;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149211;Haslea ostrearia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Haslea;Haslea ostrearia;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149219;Chaetoceros debilis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros debilis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149221;Chaetoceros curvisetus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros curvisetus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149228;Chaetoceros laciniosus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros laciniosus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149235;Hemiaulaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;NA;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Family
+149236;Cerataulina;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Cerataulina;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149241;Chaetoceros affinis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros affinis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149271;Coscinodiscus granii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Coscinodiscaceae;Coscinodiscus;Coscinodiscus granii;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+149278;Aulacodiscaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Aulacodiscaceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+149279;Aulacodiscus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Aulacodiscaceae;Aulacodiscus;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149285;Detonula;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Skeletonemaceae;Detonula;NA;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Genus
+149288;Chaetoceros atlanticus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros atlanticus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149289;Chaetoceros costatus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros costatus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149291;Chaetoceros brevis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros brevis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149292;Chaetoceros anastomosans;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros anastomosans;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149294;Chaetoceros simplex;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros simplex;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149297;Chaetoceros ceratosporus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros ceratosporus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+149305;Bellerochea;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Bellerocheaceae;Bellerochea;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149308;Thalassiosira levanderi;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira levanderi;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+149309;Dactyliosolen;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Dactyliosolen;NA;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149310;Dactyliosolen fragilissimus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Dactyliosolen;Dactyliosolen fragilissimus;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149311;Rhizosolenia robusta;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia robusta;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149314;Plagiogramma;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Plagiogrammaceae;Plagiogramma;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+149321;Lithodesmium;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;Lithodesmium;NA;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149322;Lithodesmium undulatum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;Lithodesmium;Lithodesmium undulatum;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149324;Biddulphia rhombus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Biddulphiales;Biddulphiaceae;Biddulphia;Biddulphia rhombus;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+149333;Tabellaria;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Tabellariales;Tabellariaceae;Tabellaria;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149335;Grammatophora;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Striatellales;Striatellaceae;Grammatophora;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149339;Grammatophora oceanica;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Striatellales;Striatellaceae;Grammatophora;Grammatophora oceanica;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149340;Grammatophora serpentina;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Striatellales;Striatellaceae;Grammatophora;Grammatophora serpentina;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149342;Licmophora;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Licmophorales;Licmophoraceae;Licmophora;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149356;Campylosira;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;Campylosira;NA;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149357;Campylosira cymbelliformis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;Campylosira;Campylosira cymbelliformis;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149387;Achnanthes brevipes;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Achnanthales;Achnanthaceae;Achnanthes;Achnanthes brevipes;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149488;Caloneis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Caloneis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149494;Gyrosigma fasciola;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Pleurosigmataceae;Gyrosigma;Gyrosigma fasciola;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149510;Donkinia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Pleurosigmataceae;Donkinia;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149512;Toxonidea;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Pleurosigmataceae;Toxonidea;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149515;Plagiotropidaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Plagiotropidaceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;Naviculineae;NA;Family
+149516;Plagiotropis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Plagiotropidaceae;Plagiotropis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;Naviculineae;NA;Genus
+149521;Auricula;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Surirellales;Auriculaceae;Auricula;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149537;Cymbellaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Cymbellales;Cymbellaceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149538;Cymbella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Cymbellales;Cymbellaceae;Cymbella;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149552;Gomphonemataceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Cymbellales;Gomphonemataceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+149553;Gomphonema;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Cymbellales;Gomphonemataceae;Gomphonema;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149570;Cylindrotheca gracilis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Cylindrotheca;Cylindrotheca gracilis;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+149571;Hantzschia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Hantzschia;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149616;Campylodiscus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Surirellales;Surirellaceae;Campylodiscus;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149619;Cerataulina pelagica;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Cerataulina;Cerataulina pelagica;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+149629;Rhizosolenia styliformis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia styliformis;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+149630;Stephanopyxis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Stephanopyxidaceae;Stephanopyxis;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+149631;Stephanopyxis turris;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Stephanopyxidaceae;Stephanopyxis;Stephanopyxis turris;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+149647;Detonula pumila;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Thalassiosirales;Skeletonemaceae;Detonula;Detonula pumila;Thalassiosiranae;NA;NA;NA;NA;NA;NA;NA;Species
+149659;Entomoneidaceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Surirellales;Entomoneidaceae;NA;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Family
+156505;Phalacroma rotundatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Oxyphysaceae;Phalacroma;Phalacroma rotundatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+156548;Pseudo-nitzschia pseudodelicatissima;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia pseudodelicatissima;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+156598;Entomoneis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Surirellales;Entomoneidaceae;Entomoneis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+156617;Chaetoceros lorenzianus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros lorenzianus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+156621;Chaetoceros subtilis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros subtilis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+156623;Chaetoceros tenuissimus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros tenuissimus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+156632;Coscinodiscus wailesii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Coscinodiscaceae;Coscinodiscus;Coscinodiscus wailesii;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+157072;Rhabdonema;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Rhabdonematales;Rhabdonemataceae;Rhabdonema;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+157081;Thalassiothrix;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Thalassionematales;Thalassionemataceae;Thalassiothrix;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+157240;Dinobryon;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Chrysophyceae;NA;Chromulinales;Dinobryaceae;Dinobryon;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+157256;Dictyochales;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+157257;Dictyochaceae;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;Dictyochaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+157258;Dictyocha;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;Dictyochaceae;Dictyocha;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+157260;Dictyocha speculum;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;Dictyochaceae;Dictyocha;Dictyocha speculum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+157428;Entomoneis alata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Surirellales;Entomoneidaceae;Entomoneis;Entomoneis alata;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+157431;Chaetoceros diversus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros diversus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+157438;Helicotheca;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;Helicotheca;NA;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+157440;Helicotheca tamesis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;Helicotheca;Helicotheca tamesis;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+157463;Dictyocha fibula;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;Dictyochaceae;Dictyocha;Dictyocha fibula;NA;NA;NA;NA;NA;NA;NA;NA;Species
+160513;Pyramimonas longicauda;Plantae;Viridiplantae;NA;NA;NA;NA;Pyramimonadophyceae;NA;Pyramimonadales;Pyramimonadaceae;Pyramimonas;Pyramimonas longicauda;NA;Chlorophyta;NA;Prasinophytina;NA;NA;NA;NA;Species
+160519;Attheya;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Attheyaceae;Attheya;NA;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Genus
+160521;Chaetoceros eibenii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros eibenii;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+160523;Chaetoceros lauderi;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros lauderi;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+160524;Chaetoceros wighamii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros wighamii;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+160527;Eunotogramma;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Anaulales;Anaulaceae;Eunotogramma;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+160528;Pseudo-nitzschia pungens;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia pungens;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+160542;Actinastrum;Plantae;Viridiplantae;NA;NA;NA;NA;Trebouxiophyceae;NA;Chlorellales;Chlorellaceae;Actinastrum;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Genus
+160561;Pediastrum;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorophyceae;NA;Sphaeropleales;Hydrodictyaceae;Pediastrum;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Genus
+160563;Prymnesium;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Prymnesiales;Prymnesiaceae;Prymnesium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+160581;Raphidophyceae;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Raphidophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+160582;Chattonellales;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Raphidophyceae;NA;Chattonellales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+160584;Heterosigma;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Raphidophyceae;NA;Chattonellales;Chattonellaceae;Heterosigma;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+160585;Heterosigma akashiwo;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Raphidophyceae;NA;Chattonellales;Chattonellaceae;Heterosigma;Heterosigma akashiwo;NA;NA;NA;NA;NA;NA;NA;NA;Species
+160597;Pedinellales;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Pedinellales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+160599;Pseudopedinella;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Pedinellales;Actinomonadaceae;Pseudopedinella;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+160602;Scenedesmus;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorophyceae;NA;Sphaeropleales;Scenedesmaceae;Scenedesmus;NA;NA;Chlorophyta;Scenedesmoideae;Chlorophytina;NA;NA;NA;NA;Genus
+162251;Asterolampraceae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Asterolamprales;Asterolampraceae;NA;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Family
+162254;Asteromphalus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Asterolamprales;Asterolampraceae;Asteromphalus;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+162518;Corymbellus;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Prymnesiales;Prymnesiaceae;Corymbellus;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+162725;Closterium;Plantae;Viridiplantae;Streptophyta;NA;NA;NA;Zygnematophyceae;Zygnematophycidae;Desmidiales;Closteriaceae;Closterium;NA;NA;Charophyta;NA;NA;NA;NA;NA;NA;Genus
+162728;Staurastrum;Plantae;Viridiplantae;Streptophyta;NA;NA;NA;Zygnematophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Staurastrum;NA;NA;Charophyta;NA;NA;NA;NA;NA;NA;Genus
+163055;Chaetoceros protuberans;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros protuberans;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+163126;Chaetoceros socialis f. radians;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros socialis;Chaetocerotanae;NA;NA;NA;NA;Chaetoceros socialis f. radians;NA;NA;Forma
+163132;Chaetoceros subtilis var. abnormis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros subtilis;Chaetocerotanae;NA;NA;NA;NA;NA;NA;Chaetoceros subtilis var. abnormis;Variety
+163161;Chaetoceros tortissimus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros tortissimus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+163248;Hemiaulus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Hemiaulus;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+163249;Hemiaulus hauckii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Hemiaulus;Hemiaulus hauckii;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+163250;Hemiaulus sinensis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Hemiaulus;Hemiaulus sinensis;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+163257;Isthmia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Biddulphiales;Biddulphiaceae;Isthmia;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+163262;Dactyliosolen mediterraneus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Dactyliosolen;Dactyliosolen mediterraneus;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+163342;Pseudosolenia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Pseudosolenia;NA;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Genus
+163344;Pseudosolenia calcar-avis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Pseudosolenia;Pseudosolenia calcar-avis;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+163346;Rhizosolenia calcar-avis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia calcar-avis;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+163489;Ankistrodesmus;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorophyceae;NA;Sphaeropleales;Selenastraceae;Ankistrodesmus;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Genus
+163736;Bleakeleya notata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Bleakeleya;Bleakeleya notata;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+163862;Protoperidinium claudicans;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium claudicans;NA;NA;NA;NA;NA;NA;NA;NA;Species
+164053;Pyrocystis lunula;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Pyrocystis;Pyrocystis lunula;NA;NA;NA;NA;NA;NA;NA;NA;Species
+172434;Helicostomella;Chromista;Harosa;Alveolata;Ciliophora;Intramacronucleata;NA;Oligotrichea;Oligotrichia;Choreotrichida;Metacylididae;Helicostomella;NA;NA;NA;NA;NA;NA;NA;Tintinnina;NA;Genus
+172460;Protoperidinium diabolum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium diabolus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+172799;Navicula gregaria;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Navicula;Navicula gregaria;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+172836;Navicula pelagica;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Navicula;Navicula pelagica;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+178059;Campyloneis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Achnanthales;Cocconeidaceae;Campyloneis;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+178185;Chaetoceros peruvianus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros peruvianum;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+178201;Chaetoceros rostratus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros rostratus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+178229;Chaetoceros pseudocurvisetus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros pseudocurvisetus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+178582;Eutreptia;Protozoa;Eozoa;Euglenozoa;Euglenozoa;Euglenoida;Dipilida;Euglenophyceae;Euglenophycidae;Eutreptiales;Eutreptiaceae;Eutreptia;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+178597;Coccolithaceae;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Coccolithales;Coccolithaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+178598;Coccolithus;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Coccolithales;Coccolithaceae;Coccolithus;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+178617;Crucigenia;Plantae;Viridiplantae;NA;NA;NA;NA;Trebouxiophyceae;NA;Trebouxiophyceae ordo incertae sedis;Trebouxiophyceae incertae sedis;Crucigenia;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Genus
+179320;Mesodinium;Chromista;Harosa;Alveolata;Ciliophora;Intramacronucleata;Rhabdophora;Litostomatea;Haptoria;Cyclotrichiida;Mesodiniidae;Mesodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+179786;Dactyliosolen blavyanus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Dactyliosolen;Dactyliosolen blavyanus;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+180390;Lyrella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Lyrellales;Lyrellaceae;Lyrella;NA;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+183533;Tintinnidae;Chromista;Harosa;Alveolata;Ciliophora;Intramacronucleata;NA;Oligotrichea;Oligotrichia;Choreotrichida;Tintinnidae;NA;NA;NA;NA;NA;NA;NA;NA;Tintinnina;NA;Family
+196828;Triadinium polyedricum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Goniodomataceae;Triadinium;Triadinium polyedricum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+231778;Metaphalacroma;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Metaphalacroma;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231787;Akashiwo;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Akashiwo;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231788;Karenia;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Kareniaceae;Karenia;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231789;Karlodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Kareniaceae;Karlodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231790;Lepidodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Lepidodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231796;Amphidomataceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophyceae incertae sedis;Amphidomataceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+231799;Lingulodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Lingulodiniaceae;Lingulodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231800;Heterocapsaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Heterocapsaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+231803;Ensiculifera;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniaceae;Ensiculifera;NA;NA;NA;Calciodinelloideae;NA;NA;NA;NA;NA;Genus
+231809;Lessardia;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Lessardiaceae;Lessardia;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231856;Balechina;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Ptychodiscaceae;Balechina;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+231873;Alexandrium catenella;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium catenella;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+231885;Prorocentrum mexicanum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum mexicanum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232069;Mesodinium rubrum;Chromista;Harosa;Alveolata;Ciliophora;Intramacronucleata;Rhabdophora;Litostomatea;Haptoria;Cyclotrichiida;Mesodiniidae;Mesodinium;Mesodinium rubrum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232185;Dinophysis exigua;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis exigua;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232261;Dinophysis sacculus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Dinophysaceae;Dinophysis;Dinophysis sacculus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232376;Prorocentrum cordatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Prorocentrales;Prorocentraceae;Prorocentrum;Prorocentrum cordatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232442;Phalacroma acutum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Oxyphysaceae;Phalacroma;Phalacroma acutum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232460;Phalacroma cuneus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Oxyphysaceae;Phalacroma;Phalacroma cuneus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232491;Phalacroma mitra;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Oxyphysaceae;Phalacroma;Phalacroma mitra;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232492;Phalacroma rapa;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Oxyphysaceae;Phalacroma;Phalacroma rapa;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232546;Akashiwo sanguinea;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Akashiwo;Akashiwo sanguinea;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232625;Podolampas palmipes;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Podolampadaceae;Podolampas;Podolampas palmipes;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232650;Cochlodinium polykrikoides;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Cochlodinium;Cochlodinium polykrikoides;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232703;Lessardia elongata;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Lessardiaceae;Lessardia;Lessardia elongata;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232785;Gymnodinium impudicum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Gymnodinium;Gymnodinium impudicum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+232943;Gyrodinium fusus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gyrodiniaceae;Gyrodinium;Gyrodinium fusus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233015;Karenia brevis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Kareniaceae;Karenia;Karenia brevis;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233024;Karenia mikimotoi;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Kareniaceae;Karenia;Karenia mikimotoi;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233037;Karlodinium veneficum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Kareniaceae;Karlodinium;Karlodinium veneficum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233357;Protoperidinium elegans;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Protoperidiniaceae;Protoperidinium;Protoperidinium elegans;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233386;Goniodoma polyedricum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Thoracosphaerales;Thoracosphaeraceae;Goniodoma;Goniodoma polyedricum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233440;Alexandrium hiranoi;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium hiranoi;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+233443;Alexandrium insuetum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium insuetum;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+233447;Alexandrium margalefii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium margalefii;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+233619;Heterocapsa minima;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa minima;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233620;Heterocapsa niei;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa niei;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233712;Ostreopsis siamensis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Ostreopsis;Ostreopsis siamensis;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+233744;Centrodinium punctatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ostreopsidaceae;Centrodinium;Centrodinium punctatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233759;Fibrocapsa;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Raphidophyceae;NA;Chattonellales;Vacuolariaceae;Fibrocapsa;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+233761;Fibrocapsa japonica;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Raphidophyceae;NA;Chattonellales;Vacuolariaceae;Fibrocapsa;Fibrocapsa japonica;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233763;Olisthodiscus;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Olisthodiscophyceae;NA;Olisthodiscales;Olisthodiscaceae;Olisthodiscus;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+233776;Chattonella;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Raphidophyceae;NA;Chattonellales;Chattonellaceae;Chattonella;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+233868;Oxytoxum variabile;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum variabile;NA;NA;NA;NA;NA;NA;NA;NA;Species
+233874;Oxytoxum tesselatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Oxytoxaceae;Oxytoxum;Oxytoxum tesselatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+235993;Coccolithophora;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;Prymnesiophycidae;Coccolithales;Coccolithaceae;Coccolithophora;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+246593;Karenia papilionacea;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Kareniaceae;Karenia;Karenia papilionacea;NA;NA;NA;NA;NA;NA;NA;NA;Species
+246604;Pseudo-nitzschia australis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia australis;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+246606;Pseudo-nitzschia fraudulenta;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia fraudulenta;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+246607;Pseudo-nitzschia galaxiae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia galaxiae;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+246608;Pseudo-nitzschia multistriata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia multistriata;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+246835;Alexandrium andersonii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium andersonii;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+247913;Tiarina;Chromista;Harosa;Alveolata;Ciliophora;Intramacronucleata;Ventrata;Prostomatea;NA;Prorodontida;Colepidae;Tiarina;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+248058;Eucampia cornuta;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia cornuta;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+248063;Haslea wawrikae;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Haslea;Haslea wawrikae;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+248064;Dactyliosolen phuketensis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Dactyliosolen;Dactyliosolen phuketensis;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+248069;Asterolampra;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Asterolamprales;Asterolampraceae;Asterolampra;NA;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Genus
+248075;Toxarium undulatum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Toxariales;Toxariaceae;Toxarium;Toxarium undulatum;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+248081;Climacosphenia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Climacospheniales;Climacospheniaceae;Climacosphenia;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+248096;Apedinella;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Pedinellales;Actinomonadaceae;Apedinella;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+248097;Apedinella radians;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Pedinellales;Actinomonadaceae;Apedinella;Apedinella radians;NA;NA;NA;NA;NA;NA;NA;NA;Species
+248181;Proboscia truncata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;Proboscia truncata;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+251728;Proboscia alata f. alata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;Proboscia alata;Rhizosolenianae;NA;NA;NA;NA;Proboscia alata f. alata;NA;NA;Forma
+251744;Asteroplanus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Asteroplanus;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+251745;Asteroplanus karianus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Asteroplanus;Asteroplanus karianus;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+254445;Trigonium;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Biddulphiales;Biddulphiaceae;Trigonium;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+292726;Lioloma;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Thalassionematales;Thalassionemataceae;Lioloma;NA;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+341285;Centriques;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;NA;Centrales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+341479;Chaetoceros neglectus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Chaetocerotaceae;Chaetoceros;Chaetoceros neglectus;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+341484;Coscinodiscus oculus-iridis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Coscinodiscales;Coscinodiscaceae;Coscinodiscus;Coscinodiscus oculus-iridis;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+341496;Corethron pennatum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Corethrales;Corethraceae;Corethron;Corethron pennatum;Corethranae;NA;NA;NA;NA;NA;NA;NA;Species
+341566;Nitzschia bicapitata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia bicapitata;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+345481;Lepidodinium chlorophorum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniaceae;Lepidodinium;Lepidodinium chlorophorum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+345484;Mediopyxis;Chromista;NA;NA;Bacillariophyta;NA;NA;NA;NA;NA;NA;Mediopyxis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+345485;Mediopyxis helysia;Chromista;NA;NA;Bacillariophyta;NA;NA;NA;NA;NA;NA;Mediopyxis;Mediopyxis helysia;NA;NA;NA;NA;NA;NA;NA;NA;Species
+345490;Neocalyptrella;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Neocalyptrella;NA;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Genus
+345491;Neocalyptrella robusta;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Neocalyptrella;Neocalyptrella robusta;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+345513;Proboscia indica;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Proboscia;Proboscia indica;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+369960;Octactis;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;Dictyochaceae;Octactis;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+375970;Octactis octonaria;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;Dictyochaceae;Octactis;Octactis octonaria;NA;NA;NA;NA;NA;NA;NA;NA;Species
+388924;Alexandrium tamutum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium tamutum;NA;NA;Ostreopsidoideae;NA;NA;NA;NA;NA;Species
+391508;Azadinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophyceae incertae sedis;Amphidomataceae;Azadinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+393172;Nostoc;Bacteria;Negibacteria;NA;Cyanobacteria;NA;NA;Cyanophyceae;Nostocophycidae;Nostocales;Nostocaceae;Nostoc;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+394840;Attheya armata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Chaetocerotanae incertae sedis;Attheyaceae;Attheya;Attheya armata;Chaetocerotanae;NA;NA;NA;NA;NA;NA;NA;Species
+418136;Gonyaulax digitalis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;Gonyaulax digitalis;NA;NA;NA;NA;NA;NA;NA;NA;Species
+418222;Pseudo-nitzschia subpacifica;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia subpacifica;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+418540;Hemiaulus membranaceus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Hemiaulaceae;Hemiaulus;Hemiaulus membranaceus;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+418547;Melosira moniliformis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Melosirales;Melosiraceae;Melosira;Melosira moniliformis;Coscinodiscanae;NA;NA;NA;NA;NA;NA;NA;Species
+418647;Thalassionema bacillare;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Thalassionematales;Thalassionemataceae;Thalassionema;Thalassionema bacillare;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+447730;Bellerochea horologicalis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Hemiaulales;Bellerocheaceae;Bellerochea;Bellerochea horologicalis;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+450619;Minutocellus;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Cymatosirales;Cymatosiraceae;Minutocellus;NA;Cymatosirophycanae;NA;NA;NA;NA;NA;NA;NA;Genus
+478556;Pseudo-nitzschia americana;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia americana;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+478557;Cosmarium;Plantae;Viridiplantae;Streptophyta;NA;NA;NA;Zygnematophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Cosmarium;NA;NA;Charophyta;NA;NA;NA;NA;NA;NA;Genus
+478559;Hermesinum;Chromista;Harosa;Rhizaria;Cercozoa;NA;NA;Thecofilosea;Eothecia;Ebriales;Podamphoraceae;Hermesinum;NA;NA;NA;NA;NA;Ventrifilosa;NA;NA;NA;Genus
+494056;Neoceratium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+494057;Tripos;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+494102;Oltmannsiellopsis;Plantae;Viridiplantae;NA;NA;NA;NA;Ulvophyceae;NA;Oltmannsiellopsidales;Oltmannsiellopsidaceae;Oltmannsiellopsis;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Genus
+495363;Tripos muelleri;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos muelleri;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495630;Neoceratium arietinum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium arietinum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495633;Neoceratium azoricum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium azoricum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495640;Neoceratium candelabrum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium candelabrum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495645;Neoceratium concilians;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium concilians;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495648;Neoceratium declinatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium declinatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495678;Neoceratium macroceros;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium macroceros;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495685;Neoceratium pentagonum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium pentagonum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+495691;Neoceratium ranipes;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Neoceratium;Neoceratium ranipes;NA;NA;NA;NA;NA;NA;NA;NA;Species
+547544;Rhizosolenia setigera f. pungens;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia setigera;Rhizosolenianae;NA;NA;NA;NA;Rhizosolenia setigera f. pungens;NA;NA;Forma
+555052;Thalassionema frauenfeldii;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Fragilariophycidae;Thalassionematales;Thalassionemataceae;Thalassionema;Thalassionema frauenfeldii;Fragilariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+558243;Bacillaria paxillifera;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Bacillaria;Bacillaria paxillifera;Bacillariophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+562871;Choanofila;Protozoa;Sarcomastigota;NA;Choanozoa;Choanofila;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Subphylum
+572081;Selenastrum;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorophyceae;NA;Sphaeropleales;Selenastraceae;Selenastrum;NA;NA;Chlorophyta;NA;Chlorophytina;NA;NA;NA;NA;Genus
+573577;Rhizosolenia hyalina;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia hyalina;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+573585;Rhizosolenia striata;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia;Rhizosolenia striata;Rhizosolenianae;NA;NA;NA;NA;NA;NA;NA;Species
+574079;Climaconeis inflexa;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Berkeleyaceae;Climaconeis;Climaconeis inflexa;Bacillariophycanae;NA;NA;NA;NA;NA;Neidiineae;NA;Species
+576237;Desmodesmus communis;Plantae;Viridiplantae;NA;NA;NA;NA;Chlorophyceae;NA;Sphaeropleales;Scenedesmaceae;Desmodesmus;Desmodesmus communis;NA;Chlorophyta;Desmodesmoideae;Chlorophytina;NA;NA;NA;NA;Species
+582177;Euglenoidea;Protozoa;Eozoa;Euglenozoa;Euglenozoa;NA;NA;Euglenoidea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+582200;Euglenia;Protozoa;Eozoa;Euglenozoa;Euglenozoa;NA;NA;Euglenoidea;Euglenia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Subclass
+582210;Eutreptiida;Protozoa;Eozoa;Euglenozoa;Euglenozoa;NA;NA;Euglenoidea;Euglenia;Eutreptiida;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+592906;Coccolithophyceae;Chromista;Hacrobia;NA;Haptophyta;Haptophytina;NA;Coccolithophyceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Class
+593337;Peridiniida incertae sedis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniida incertae sedis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+599664;Kareniaceae;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Kareniaceae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Family
+601957;Plagiolemma;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Plagiotropidaceae;Plagiolemma;NA;Bacillariophycanae;NA;NA;NA;NA;NA;Naviculineae;NA;Genus
+603275;Vulcanodinium;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniida incertae sedis;Vulcanodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;Genus
+624358;Phalacroma oxytoxoides;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophysales;Oxyphysaceae;Phalacroma;Phalacroma oxytoxoides;NA;NA;NA;NA;NA;NA;NA;NA;Species
+624488;Vulcanodinium rugosum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniida incertae sedis;Vulcanodinium;Vulcanodinium rugosum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+624607;Archaeperidinium minutum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniida incertae sedis;Archaeperidinium;Archaeperidinium minutum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+643543;Biddulphia membranacea;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Biddulphiales;Biddulphiaceae;Biddulphia;Biddulphia membranacea;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+659627;Ditylum sol;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Lithodesmiales;Lithodesmiaceae;Ditylum;Ditylum sol;Lithodesmiophycanae;NA;NA;NA;NA;NA;NA;NA;Species
+699394;Trigonium alternans;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Biddulphiales;Biddulphiaceae;Trigonium;Trigonium alternans;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+732976;Tintinnina;Chromista;Harosa;Alveolata;Ciliophora;Intramacronucleata;NA;Oligotrichea;Oligotrichia;Choreotrichida;NA;NA;NA;NA;NA;NA;NA;NA;NA;Tintinnina;NA;Suborder
+836581;Trieres;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Trieres;NA;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Genus
+837075;Azadinium caudatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophyceae incertae sedis;Amphidomataceae;Azadinium;Azadinium caudatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+837220;Tripos falcatus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos falcatus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+837453;Tripos horridus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos horridus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+837459;Tripos lineatus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos lineatus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+839164;Ceratoperidinium falcatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Warnowiaceae;Ceratoperidinium;Ceratoperidinium falcatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+839991;Trieres mobiliensis;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Trieres;Trieres mobiliensis;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+839996;Trieres regia;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Coscinodiscophycidae;Triceratiales;Triceratiaceae;Trieres;Trieres regia;Biddulphianae;NA;NA;NA;NA;NA;NA;NA;Species
+840626;Tripos fusus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos fusus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+840627;Tripos furca;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos furca;NA;NA;NA;NA;NA;NA;NA;NA;Species
+840689;Levanderina fissa;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophyceae incertae sedis;NA;Levanderina;Levanderina fissa;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841182;Tripos arietinus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos arietinus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841193;Tripos candelabrus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos candelabrum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841249;Tripos humilis;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos humilis;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841258;Tripos limulus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos limulus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841259;Tripos longipes;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos longipes;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841260;Tripos macroceros;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos macroceros;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841746;Tripos pentagonus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos pentagonus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+841767;Tripos symmetricus;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos symmetricus;NA;NA;NA;NA;NA;NA;NA;NA;Species
+842517;Tripos trichoceros;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Ceratiaceae;Tripos;Tripos trichoceros;NA;NA;NA;NA;NA;NA;NA;NA;Species
+846290;Azadinium caudatum var. margalefii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Dinophyceae incertae sedis;Amphidomataceae;Azadinium;Azadinium caudatum;NA;NA;NA;NA;NA;NA;NA;Azadinium caudatum var. margalefii;Variety
+1304629;Pennées;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;NA;Pennales;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Order
+1305343;Peridinium quadridentatum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniaceae;Peridinium;Peridinium quadridentatum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+1310442;Octactis speculum;Chromista;Harosa;Heterokonta;Ochrophyta;NA;NA;Dictyochophyceae;NA;Dictyochales;Dictyochaceae;Octactis;Octactis speculum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+1346683;Kryptoperidinium triquetrum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Peridiniaceae;Kryptoperidinium;Kryptoperidinium triquetrum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+1382182;Lebouridinium glaucum;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;NA;Gymnodiniales;Gymnodiniales incertae sedis;Lebouridinium;Lebouridinium glaucum;NA;NA;NA;NA;NA;NA;NA;NA;Species
+1442452;Plagiolemma distortum;Chromista;NA;NA;Heterokontophyta;Bacillariophytina;NA;Bacillariophyceae;Bacillariophycidae;Naviculales;Plagiotropidaceae;Plagiolemma;Plagiolemma distortum;Bacillariophycanae;NA;NA;NA;NA;NA;Naviculineae;NA;Species
+1470768;Heterocapsa steinii;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa steinii;NA;NA;NA;NA;NA;NA;NA;NA;Species
+1778370;Lingulaulax polyedra;Chromista;Harosa;Alveolata;Myzozoa;Dinozoa;Dinoflagellata;Dinophyceae;Peridiniphycidae;Gonyaulacales;Lingulodiniaceae;Lingulaulax;Lingulaulax polyedra;NA;NA;NA;NA;NA;NA;NA;NA;Species
+109394;Scrippsiella + Ensiculifera + Pentapharsodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149151;Pseudo-nitzschia, complexe seriata, groupe des larges (australis + fraudulenta + seriata + subpacifica);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149151;Pseudo-nitzschia, complexe delicatissima, groupe des fines (calliantha + delicatissima + pseudodelicatissima + subcurvata);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109435;Diplopsalis + Diplopelta + Diplopsalopsis + Preperidinium + Oblea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109566;Prorocentrum micans + arcuatum + gibbosum + scutellum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149032;Pleurosigma + Gyrosigma;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109394;Protoperidinium + Peridinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+591186;Navicula + Fallacia + Haslea + Lyrella + Petroneis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149038;Leptocylindrus, complexe danicus groupe des larges (danicus + curvatus + mediterraneus + aporus + convexus + hargravesii + adriaticus);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148904;Thalassiosira + Porosira;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109566;Prorocentrum balticum + cordatum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109553;Protoperidinium steinii + pyriforme;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149151;Pseudo-nitzschia, complexe seriata, groupe des effilées (multiseries + pungens);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109432;Oxytoxum + Corythodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149069;Rhizosolenia imbricata + styliformis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148916;Coscinodiscus + Stellarima;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149002;Nitzschia + Hantzschia;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+231788;Karenia brevis + papilionacea;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109553;Protoperidinium diabolum + longipes;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148985;Chaetoceros curvisetus + debilis + pseudocurvisetus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+494056;Ceratium tripos + Ceratium à cornes recourbées;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148912;Thalassiosira levanderi + minima;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+591199;Synedra + Toxarium;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149151;Pseudo-nitzschia, groupe des sigmoïdes (multistriata);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148971;Lauderia + Detonula;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148985;Chaetoceros decipiens + lorenzianus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149004;Cylindrotheca closterium + Nitzschia longissima;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148985;Chaetoceros socialis + socialis f. radians;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1;Rhizosolenia setigera + setigera f. pungens;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148952;Asterionella + Asterionellopsis + Asteroplanus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149235;Eucampia + Climacodium;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1;Protoctista;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109406;Dinophysis + phalacroma;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109518;Amylax triacantha + buxus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109473;Amphidinium carterae + operculatum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148985;Chaetoceros didymus + protuberans;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109415;Warnowia + Nematodinium + Nematopsides;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149064;Rhaphoneis + Delphineis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+17667;Tetraselmis + Prasinocladus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149151;Pseudo-nitzschia, groupe des larges symétriques (fraudulenta);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149151;Pseudo-nitzschia, complexe americana (americana + brasiliana);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149038;Leptocylindrus, complexe minimus groupe des fines (L. minimus + Tenuicylindrus belgicus);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+494056;Tripos lineatus + minutus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148917;Coscinodiscus radiatus + marginatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109566;Prorocentrum mexicanum + rhathymum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109470;Alexandrium tamarense + catenella + tamutum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149151;Pseudo-nitzschia, groupe des larges asymétriques (australis + seriata + subpacifica);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148985;Chaetoceros fragilis + wighamii + diversus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148985;Chaetoceros densus + eibenii + borealis + castracanei;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+110009;Gonyaulax complexe spinifera (diegensis + digitale + spinifera);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7;Phytoflagellés excepté dinoflagellés;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109410;Gymnodinium + Gyrodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109410;Amphidinium + Katodinium;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+148917;Coscinodiscus asteromphalus + oculus-iridis + perforatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+17329;Pachysphaera + Pterosperma;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+149142;Navicula gregaria + cryptocephala;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109462;Dinophysis hastata + odiosa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+109553;Protoperidinium pentagonum + latissimum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+115061;Haptolina hirta + ericina + Chrysochromulina spinifera;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
