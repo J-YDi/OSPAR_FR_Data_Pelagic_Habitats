@@ -8,8 +8,6 @@
 # Github link        : 
 #_______________________________________________________________________________
 
-# Beosin de changer la correspondance aphiaID pour s'aligner avec REPHY
-
 #_______________________________ Packages_______________________________________####
 
 # Function to install packages if not present and/or load them
