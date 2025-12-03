@@ -87,6 +87,7 @@ PICONANO <- PICONANO[,-QF_PICONANO]
 
 # Correct depth for Arcachon stations as there are all at the surface so there are not sampling at more than 1m for Bouee 13, Comprian and Eyrac stations
 HYDRO$PROFONDEUR <- ifelse(HYDRO$SITE %in% c("Bouee 13","Comprian","Eyrac") & HYDRO$NIVEAU_PROFONDEUR == "S" & HYDRO$PROFONDEUR > 1,  1,  HYDRO$PROFONDEUR)
+PICONANO$PROFONDEUR <- ifelse(PICONANO$SITE %in% c("Bouee 13","Comprian","Eyrac") & PICONANO$NIVEAU_PROFONDEUR == "S" & PICONANO$PROFONDEUR > 1,  1,  PICONANO$PROFONDEUR)
 
 #____________________Make HYDRO data OCEAN compatible___________________________
 
@@ -148,6 +149,9 @@ write_excel_csv(SOMLIT_OCEAN,file = "output/OCEAN_PH2_SOMLIT_Ready_version_final
 
 #_____________________PHYTOPLANKTON DATA TO DOME FORMAT_________________________####
 # Keep only measurements that corresponds to a taxa and are under of scope of COBAM
+
+PICONANO <- filter(PICONANO, SITE %in% c("Antioche" ,"Astan","Bizeux","Bouee 13","Comprian","Cézembre" ,"Estacade","Eyrac","Le Buron" , "Luc-sur-Mer",
+                                   "Point C", "Point L","Portzic","Smile", "pk 30", "pk 52","pk 86"))
 
 SOMLIT_DOME <- PICONANO |>
   pivot_longer(cols = TBACC:NANOEFLR,names_to = "TAXA",values_to = "VALEUR") |>
@@ -257,9 +261,6 @@ DOME$MPROG <- "CEMP~NATL" # OSPAR and National reporting
 # Purpose of Monitoring
 DOME$PURPM <- "T~S" # Temporal trend monitoring and Spatial (geographical) distribution monitoring
 
-# Contracting Party
-DOME$CNTRY <- "FR"
-
 # Monitoring Year
 DOME$MYEAR <- format(as.Date(SOMLIT_DOME$DATE),"%Y")
 
@@ -279,7 +280,7 @@ DOME$SIZRF <- NA
 DOME$SFLAG <- NA
 
 # Keep only the DOME format columns
-DOME_PP_SOMLIT <- select(DOME,SHIPC:SFLAG)
+DOME_PP_SOMLIT <- select(DOME,RLABO:MUNIT,PARAM,ALABO:SFLAG)
 
 # Make the max of the abundance of aphiaID, as recommanded by Maud Lemoine from the REPHY
 DOME_PP_SOMLIT <- DOME_PP_SOMLIT %>%
@@ -288,9 +289,7 @@ DOME_PP_SOMLIT <- DOME_PP_SOMLIT %>%
 
 # Save it
 if(nrow(filter(DOME_PP_SOMLIT, is.na(SPECI))) != 0){
-  message("There is a taxa without aphiaID, SEANOE_PNMI_SOMLIT_DOME_aphiaID.csv must be updated")
+  message("There is a taxa without aphiaID")
 } else {
-  write.csv(DOME_PP_SOMLIT,file = "output/DOME_PP_SOMLIT_PICONANO_Ready_version.csv",row.names = F,fileEncoding = "UTF-8")
+  write.csv(DOME_PP_SOMLIT,file = "output/DOME_PP_SOMLIT_PICONANO_Ready_version.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 }
-
-
