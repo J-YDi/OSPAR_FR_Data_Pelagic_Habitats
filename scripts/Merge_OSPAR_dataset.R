@@ -61,6 +61,26 @@ ZP_FR <- ZP_FR %>%
   group_by(across(-VALUE)) %>%  
   summarise(VALUE = sum(VALUE, na.rm = TRUE), .groups = "drop")
 
+# On garde la date initial s'il existe une autre date avec le code echantillon BOREA
+ZP_FR <- ZP_FR %>%
+  group_by(SDATE, CRUIS) %>%
+  mutate(has_non_borea = any(!startsWith(SMPNO, "BOREA"))) %>%
+  ungroup() %>%
+  filter(!(startsWith(SMPNO, "BOREA") & has_non_borea)) %>%
+  select(-has_non_borea)
+
+ZP_FR$STNNO[grep("BOREA",ZP_FR$STNNO)] <- paste0("BOREA",ZP_FR$SDATE[grep("BOREA",ZP_FR$SMPNO)])
+
+ZP_FR$SMPNO[grep("BOREA",ZP_FR$SMPNO)] <- paste0("BOREA",ZP_FR$SDATE[grep("BOREA",ZP_FR$SMPNO)])
+
+ZP_FR <- ZP_FR |>
+  filter(!(str_detect(CRUIS, "IGA_Gravelines") & !is.na(STIME)))
+
+ZP_FR <- ZP_FR %>%
+  group_by(across(-VALUE)) %>%  
+  summarise(VALUE = sum(VALUE, na.rm = TRUE), .groups = "drop")
+
+
 #_______________________Save it_________________________________________________
 write.csv(ZP_FR,file = "output/DOME_ZP_FR_Ready_version.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 
@@ -100,6 +120,11 @@ PP_Gravelines$SMPNO <- as.character(PP_Gravelines$SMPNO)
 PP_REPHY$STNNO <- as.character(PP_REPHY$STNNO)
 PP_REPHY$SMPNO <- as.character(PP_REPHY$SMPNO)
 
+# Correct lat and lon
+Lon <- PP_Gravelines$LATIT
+PP_Gravelines$LATIT <- PP_Gravelines$LONGI
+PP_Gravelines$LONGI <- Lon
+
 #___________________________Merge the dataset___________________________________
 PP_FR <- bind_rows(PP_PNMI,PP_Gravelines)
 PP_FR <- bind_rows(PP_FR,PP_PHYTOBS)
@@ -122,6 +147,10 @@ PP_FR <- PP_FR %>%
 
 #Move MPROG to the last
 PP_FR <- PP_FR[c(setdiff(names(PP_FR), "MPROG"), "MPROG")]
+
+# Delete the accents
+PP_FR$STATN <-iconv(PP_FR$STATN, from = "UTF-8", to = "ASCII//TRANSLIT")
+
 
 
 #_______________________Save it_________________________________________________
