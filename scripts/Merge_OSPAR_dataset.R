@@ -151,6 +151,12 @@ PP_FR <- PP_FR[c(setdiff(names(PP_FR), "MPROG"), "MPROG")]
 # Delete the accents
 PP_FR$STATN <-iconv(PP_FR$STATN, from = "UTF-8", to = "ASCII//TRANSLIT")
 
+# To deal with duplicates we change the STNNO for those years, for the next datacall we should do it for the all dataset
+PP_FR_left <- filter(PP_FR, MYEAR %in% c(1987,1988,1989,1992,1993,1994,1995,1996,1997,1999,2000,2001,2002,2008,2009,2010,2011,2012,2024))
+PP_FR_left$STNNO <- paste0(PP_FR_left$STATN,PP_FR_left$SDATE,PP_FR_left$STIME)
+PP_FR_left$STNNO <- sub("NA$", "", PP_FR_left$STNNO)
+
+write.csv(PP_FR_left,file = "output/DOME_PP_FR_Ready_version_STNNOresolved.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 
 
 #_______________________Save it_________________________________________________
@@ -164,7 +170,7 @@ Subdivise_df <- function(data,colonne,filtre,path){
   }
 }
 
-Subdivise_df(PP_FR,"MYEAR",unique(PP_FR$MYEAR),"output/PP/")
+Subdivise_df(PP_FR_left,"MYEAR",unique(PP_FR_left$MYEAR),"output/PP/")
 
 write.csv(PP_FR,file = "output/DOME_PP_FR_Ready_version.csv",row.names = F,fileEncoding = "UTF-8",na = "")
 
